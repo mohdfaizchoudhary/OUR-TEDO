@@ -1,0 +1,361 @@
+{
+  "experience_req": {
+    "years": "3",
+    "exemption_startup": "True",
+    "exemption_mse": "True",
+    "documents_required": [
+      "Experience Criteria, Certificate (Requested in ATC)",
+      "Supporting documents for exemption if applicable"
+    ]
+  },
+  "document_submission_req": [
+    "Upload supporting documents for experience/turnover exemption if applicable",
+    "Upload certificate from OEM regarding percentage of local content and location of value addition for MII preference"
+  ],
+  "total_quantity": "2",
+  "turnover_req": null,
+  "end_date": "12-12-2025 09:00:00",
+  "undertakings": [
+    "Bidder must undertake compliance with restrictions on procurement from countries sharing a land border with India"
+  ],
+  "tender_dates": {
+    "bid_opening": "12-12-2025 09:30:00",
+    "bid_validity_days": "180",
+    "bid_end": "12-12-2025 09:00:00"
+  },
+  "exemptions": [
+    "MSEs and Startups are exempted from Experience Criteria subject to meeting quality and technical specifications and uploading supporting documents"
+  ],
+  "emd_or_fee": {
+    "epbg_required": "False",
+    "emd_required": "False",
+    "tender_fee_required": "False"
+  },
+  "bid_no": "GEM/2025/B/6881275",
+  "start_date": "12-11-2025",
+  "buyer_terms": [
+    "Option Clause: Purchaser reserves right to increase/decrease quantity up to 25% at contract placement or during contract at same rates",
+    "Scope of supply: Only supply of Goods",
+    "Pre-qualification: Submit previous PO and invoice for similar item in last 3 years",
+    "No EMD or ePBG required",
+    "Bid splitting not applied",
+    "No arbitration or mediation clause",
+    "Preference to Make in India (MII) and MSE as per policy",
+    "Compliance with Payment of Wages Act, 1936",
+    "Compliance with Payment of Bonus Act, 1965",
+    "Compliance with Equal Remuneration Act, 1976",
+    "Compliance with Payment of Gratuity Act, 1972",
+    "Any non-compliance will be treated as breach of contract and Buyer may take suitable actions as per GeM Contract"
+  ],
+  "items": [
+    {
+      "name": "3-Phase squirrel cage induction motor",
+      "specs": "KW– 7.5, HP– 10, FRAME-KI-132S, Voltage: - 415V+ /- 10% , cu",
+      "quantity": 1,
+      "delivery_days": 90,
+      "consignee": "Mooraboina Subbarayudu",
+      "address": "516349,CHIEF CONTROLLER OF PURCHASE, URANIUM CORPORATION OF INDIA LIMITED, MC PALLE (POST), VEMULA (MANDAL), YSR KADAPA DISTRICT, AP"
+    },
+    {
+      "name": "3-Phase squirrel cage induction motor",
+      "specs": "KW– 9.3, HP– 12.5, Type: HX -+ 160MLB4, Voltage: - 415V+/- 10%",
+      "quantity": 1,
+      "delivery_days": 90,
+      "consignee": "Mooraboina Subbarayudu",
+      "address": "516349,CHIEF CONTROLLER OF PURCHASE, URANIUM CORPORATION OF INDIA LIMITED, MC PALLE (POST), VEMULA (MANDAL), YSR KADAPA DISTRICT, AP"
+    }
+  ],
+  "full_text_summary": "This tender from Uranium Corporation Of India Limited (Department Of Atomic Energy, PMO) is for the supply of two 3-phase squirrel cage induction motors (one 7.5KW/10HP, one 9.3KW/12.5HP) to be delivered to Kadapa, Andhra Pradesh. The bid closes on 12-12-2025 and is a two packet bid with a 180-day validity. No EMD or ePBG is required. Experience of 3 years in supplying similar items to government/PSUs is required, but MSEs and Startups are exempted if they meet technical criteria and provide supporting documents. Preference is given to Make in India and MSE suppliers as per policy. Bidders must submit at least one previous PO and invoice for similar items from the last 3 years. The evaluation is total value wise, and the scope is only supply of goods. Minimum local content requirements apply for MII preference. No arbitration or mediation clause is included.",
+  "bid_type": "Two Packet Bid",
+  "important_terms": [
+    "Minimum 3 bids required to disable auto extension",
+    "Bid auto-extended by 7 days, max 1 time",
+    "Technical clarifications allowed for 3 days",
+    "Total value wise evaluation",
+    "Minimum 50% and 20% local content required for Class 1 and Class 2 Local Supplier respectively",
+    "MII purchase preference up to L1+20%, max 50% of bid quantity",
+    "MSE purchase preference up to L1+15%, max 25% of bid quantity",
+    "No physical document submission required",
+    "No bid to RA enabled",
+    "Bid is governed by the General Terms and Conditions",
+    "Restriction on procurement from bidders of countries sharing land border with India unless registered with Competent Authority",
+    "Bidder must undertake compliance with this restriction; false declaration or non-compliance may result in immediate contract termination and legal action"
+  ],
+  "major_docs": [
+    "Any one previous purchase order and its respective invoice copy supplied to any reputed company/agency of similar items (3 phase squirrel cage induction motor) in the last 3 financial years ending with 31.03.2025 (2022-2023, 2023-2024 & 2024-2025), along with part-1 of their offer"
+  ],
+  "eligibility_criteria": [
+    "Bidder or OEM must have regularly manufactured and supplied same/similar products to any Central/State Govt Organization/PSU for 3 years before bid opening date",
+    "Copies of relevant contracts and delivery acceptance certificates to be submitted",
+    "Preference to Class 1 local supplier as per MII order",
+    "Only Class-I and Class-II Local suppliers as per MII order eligible to bid (except eligible MSEs)",
+    "MSEs must be manufacturer/OEM of offered product on GeM",
+    "Bidders from countries sharing a land border with India must be registered with the Competent Authority to be eligible to bid"
+  ],
+  "raw_text_pages": [
+    {
+      "page": 1,
+      "text": "(cid:1)बड सं(cid:65)या/Bid Number: GEM/2025/B/6881275\n(cid:66)दनांक /Dated: 12-11-2025\n(cid:1)(cid:1)बबडड दद(cid:38)(cid:38)ततााववेज़ेज़ / Bid Document\n(cid:1)(cid:1)बबडड (cid:1)(cid:1)ववववररणण//Bid Details\n(cid:1)(cid:1)बबडड बबंदंद हहोोनने े कक(cid:16)(cid:16) तताारर(cid:19)(cid:19)खख//ससममयय /Bid End Date/Time 12-12-2025 09:00:00\n(cid:1)(cid:1)बबडड खखुलुलनने े कक(cid:16)(cid:16) तताारर(cid:19)(cid:19)खख//ससममयय /Bid Opening\n12-12-2025 09:30:00\nDate/Time\n(cid:1)(cid:1)बबडड पपेशेशककशश ववैधैधतताा ((बबंदंद हहोोनने े कक(cid:16)(cid:16) तताारर(cid:19)(cid:19)खख ससे)े)/Bid Offer\n180 (Days)\nValidity (From End Date)\nममं(cid:32)ं(cid:32)ााललयय//रराा(cid:33)(cid:33)यय ककाा ननाामम/Ministry/State Name Pmo\n(cid:1)(cid:1)ववभभाागग ककाा ननाामम/Department Name Department Of Atomic Energy\nससंगंगठठनन ककाा ननाामम/Organisation Name Uranium Corporation Of India Limited\nककााययााल(cid:37)ल(cid:37) यय ककाा ननाामम/Office Name Kadapa\nककुुलल ममाा(cid:32)(cid:32)ाा/Total Quantity 2\n3-Phase squirrel cage induction motor, KW– 7.5, HP– 10,\nFRAME-KI-132S, Voltage: - 415V+ /- 10% , cu , 3-Phase\nवव(cid:38)(cid:38)ततु ु (cid:39)(cid:39)णेणे ीी /Item Category\nsquirrel cage induction motor, KW– 9.3, HP– 12.5, Type: HX -\n+ 160MLB4, Voltage: - 415V+ /-\n3-Phase squirrel cage induction motor, KW – 9.3, HP – 12.5,\nType: HX -+160MLB4, Voltage: - 415V +/- 10%, current –\nGeMARPTS मम(cid:41) (cid:41) खखोोजजीी गगईई (cid:44)(cid:44)(cid:38)(cid:38)(cid:45)(cid:45)ंं(cid:46)(cid:46)सस / Searched 18.8 Amps, Rpm-1455, P.F -0.81, freq- 50HZ, Efficiency-\nStrings used in GeMARPTS 88%, Duty-S1, Ins-Class-F, IP-55, IS-325, connection-delta,\nAmbient temp- 50degC, frame material motor must be Cast\niron body Existing make: ABB\nGeMARPTS मम(cid:41) (cid:41) खखोोजजाा गगययाा पप(cid:47)(cid:47)ररणणाामम / Searched Category not available on GeM for the text string uploaded\nResult generated in GeMARPTS by the buyer\nअअििधधससूचूचननाा ककेे ििललएए चचययििननतत (cid:53)(cid:53)ााससंिंिगगकक (cid:39)(cid:39)(cid:44)े(cid:44)ेणणययााँ ँ / Relevant Line Operated Three Phase AC Motors ISI Marked to IS\nCategories selected for notification 12615\nउउ(cid:56)(cid:56)हह(cid:19)(cid:19)ं/ं/ससममाानन ससेवेवाा ककेे ििललएए अअपपे(cid:44)े(cid:44)(cid:57)(cid:57)तत (cid:1)(cid:1)ववगगतत अअननुभुभवव ककेे\nववषष/(cid:37)(cid:37)Years of Past Experience Required for 3 Year (s)\nsame/similar service\nववषष(cid:59)(cid:59) ककेे अअननुभुभवव ककेे ििललएए एएममएएससईई ककोो छछूूटट (cid:53)(cid:53)ाा(cid:62)(cid:62) हहैै / MSE\nYes | Complete\nExemption for Years Of Experience\nववषष(cid:59)(cid:59) ककेे अअननुभुभवव ककेे ििललएए (cid:38)(cid:38)टटााटट(cid:37)(cid:37)अअपप ककोो छछूूटट (cid:53)(cid:53)ाा(cid:62)(cid:62) हहैै / Startup\nYes | Complete\nExemption for Years Of Experience\nExperience Criteria,Certificate (Requested in ATC)\n*In case any bidder is seeking exemption from Experience /\n(cid:1)(cid:1)वव(cid:63)(cid:63)ेेतताा ससे े ममाांगंगे े गगएए दद(cid:38)(cid:38)ततााववेज़ेज़/Document required\nTurnover Criteria, the supporting documents to prove his\nfrom seller\neligibility for exemption must be uploaded for evaluation by\nthe buyer\n1 / 7"
+    },
+    {
+      "page": 2,
+      "text": "(cid:1)(cid:1)बबडड (cid:1)(cid:1)ववववररणण//Bid Details\n(cid:73)(cid:73)ययाा आआपप ििनन(cid:1)(cid:1)ववददााककाारर(cid:75)(cid:75) (cid:76)(cid:76)ाारराा अअपपललोोडड (cid:66)(cid:66)ककएए गगएए दद(cid:38)(cid:38)ततााववेज़ेज़(cid:75)(cid:75) ककोो\nििनन(cid:1)(cid:1)ववददाा मम(cid:41) (cid:41) भभाागग ललेनेने े ववाालले े ससभभीी ििनन(cid:1)(cid:1)ववददााककाारर(cid:75)(cid:75) ककोो (cid:66)(cid:66)ददखखााननाा Yes (Documents submitted as part of a clarification or\nrepresentation during the tender/bid process will also be\nचचााहहतते े हह(cid:77)(cid:77)?? ससंदंदभभ (cid:37) (cid:37) ममेनेनू ू हहैै/Do you want to show\ndisplayed to other participated bidders after log in)\ndocuments uploaded by bidders to all\nbidders participated in bid?\n(cid:1)(cid:1)बबडड ललगगाानने े कक(cid:16)(cid:16) ससममयय ससीीममाा (cid:38)(cid:38)ववततःः ननहह(cid:19)(cid:19)ं ं बबढ़ढ़ाानने े ककेे ििललएए\nआआवव(cid:81)(cid:81)ययकक (cid:1)(cid:1)बबडड कक(cid:16)(cid:16) ससं(cid:65)ं(cid:65)ययाा।। / Minimum number of 3\nbids required to disable automatic bid\nextension\n(cid:66)(cid:66)ददनन(cid:75)(cid:75) कक(cid:16)(cid:16) ससं(cid:65)ं(cid:65)ययाा,, (cid:44)(cid:44)जजननककेे ििललएए (cid:1)(cid:1)बबडड ललगगाानने े कक(cid:16)(cid:16) ससममयय--ससीीममाा\nबबढ़ढ़ााईई जजााएएगगीी।। // Number of days for which Bid 7\nwould be auto--extended\nऑऑटटोो एए(cid:73)(cid:73)ससटट(cid:41)(cid:41)शशनन अअििधधककततमम (cid:66)(cid:66)ककततननीी बबाारर (cid:66)(cid:66)ककययाा जजााननाा हहैै।। //\n1\nNumber of Auto Extension count\n(cid:1)(cid:1)बबडड ससे े (cid:47)(cid:47)ररववसस (cid:37) (cid:37) ननीीललााममीी सस(cid:66)(cid:66)(cid:63)(cid:63)यय (cid:66)(cid:66)ककययाा/Bid to RA enabled No\n(cid:1)(cid:1)बबडड ककाा (cid:53)(cid:53)ककाारर/Type of Bid Two Packet Bid\n3-Phase squirrel cage induction motor, KW– 7.5, HP– 10,\n(cid:53)(cid:53)ााथथििममकक उउ(cid:86)(cid:86)पपाादद (cid:39)(cid:39)णेणे ीी/Primary product category\nFRAME-KI-132S, Voltage: - 415V+ /- 10% , cu\nततककननीीकक(cid:16)(cid:16) ममू(cid:87)ू(cid:87)ययाांकंकनन ककेे ददौौरराानन ततककननीीकक(cid:16)(cid:16) (cid:38)(cid:38)पप(cid:89)(cid:89)ीीककररणण हहेेततुु\nअअननुमुमतत ससममयय /Time allowed for Technical 3 Days\nClarifications during technical evaluation\nििननरर(cid:19)(cid:19)(cid:57)(cid:57)णण आआवव(cid:81)(cid:81)ययकक (ससूचूचीीबब(cid:90)(cid:90) ििननरर(cid:19)(cid:19)(cid:57)(cid:57)णण (cid:53)(cid:53)ााििधधककररणण /जजेमेम ककेे ससााथथ\nपपूवूव(cid:37) (cid:37)पपंजंजीीककृृतत एएजज(cid:41)ि(cid:41)िससयय(cid:75)(cid:75) (cid:76)(cid:76)ाारराा)/Inspection Required (By\nNo\nEmpanelled Inspection Authority / Agencies\npre-registered with GeM)\nममू(cid:87)ू(cid:87)ययाांकंकनन पप(cid:90)(cid:90)िितत/Evaluation Method Total value wise evaluation\nमम(cid:92)(cid:92)यय(cid:38)(cid:38)थथतताा खखंडंड/Arbitration Clause No\nससुलुलहह खखंडंड/Mediation Clause No\nईईएएममडड(cid:19)(cid:19) (cid:1)(cid:1)ववववररणण/EMD Detail\nआव(cid:81)यकता/Required No\nईईपपीीबबीीजजीी (cid:1)(cid:1)ववववररणण /ePBG Detail\nआव(cid:81)यकता/Required No\nबोली (cid:1)वभाजन लागू नह(cid:19)ं (cid:66)कया गया/ Bid splitting not applied.\nएएममआआईईआआईई खखरर(cid:19)(cid:19)दद ववरर(cid:19)(cid:19)ययतताा / MII Purchase Preference\n2 / 7"
+    },
+    {
+      "page": 3,
+      "text": "एमआईआई खर(cid:19)द वर(cid:19)यता / MII Purchase Preference Yes\nमेक इन इं(cid:66)डया (cid:1)व(cid:63)ेताओं को खर(cid:19)द म(cid:41) (cid:53)ाथिमकता, य(cid:66)द\nउनका मू(cid:87)य L1+X% तक क(cid:16) सीमा म(cid:41) है / Purchase 20\nPreference to MII sellers availabele upto price\nwithin L1+X%\nमेक इन इं(cid:66)डया खर(cid:19)द म(cid:41) (cid:53)ाथिमकता के िलए (cid:1)बड क(cid:16) मा(cid:32)ा\nका अिधकतम (cid:53)ितशत / Maximum Percentage of Bid 50\nquantity for MII purchase preference\nएएममएएससईई खखरर(cid:19)(cid:19)दद ववरर(cid:19)(cid:19)ययतताा/MSE Purchase Preference\nएमएसई खर(cid:19)द वर(cid:19)यता/MSE Purchase Preference Yes\nसू(cid:97)म और लघु उ(cid:100)म मूल उपकरण िनमात(cid:37) ाओं को खर(cid:19)द म(cid:41)\n(cid:53)ाथिमकता, य(cid:66)द उनका मू(cid:87)य L1+X% तक क(cid:16) सीमा म(cid:41) हो / 15\nPurchase Preference to MSE OEMs available upto\nprice within L1+X%\nसू(cid:97)म और लघु उ(cid:100)म को खर(cid:19)द म(cid:41) (cid:53)ाथिमकता के िलए (cid:1)बड\nक(cid:16) मा(cid:32)ा का अिधकतम (cid:53)ितशत / Maximum 25\nPercentage of Bid quantity for MSE purchase\npreference\n1. If the bidder is a Micro or Small Enterprise as per latest orders issued by Ministry of MSME, the bidder shall be\nexempted from the eligibility criteria of \"Experience Criteria\" as defined above subject to meeting of quality and\ntechnical specifications. The bidder seeking exemption from Experience Criteria, shall upload the supporting\ndocuments to prove his eligibility for exemption.\n2. If the bidder is a DPIIT registered Startup, the bidder shall be exempted from the the eligibility criteria of\n\"Experience Criteria\" as defined above subject to their meeting of quality and technical specifications. The bidder\nseeking exemption from Experience Criteria, shall upload the supporting documents to prove his eligibility for\nexemption.\n3. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM of the product\noffered in the bid {themselves or through reseller(s)} should have regularly, manufactured and supplied same or\nsimilar Category Products to any Central / State Govt Organization / PSU for number of Financial years as\nindicated above in the bid document before the bid opening date. Copies of relevant contracts and delivery\nacceptance certificates like CRAC to be submitted along with bid in support of having supplied some quantity\nduring each of the Financial year. In case of bunch bids, the category of primary product having highest value\nshould meet this criterion.\n4. Preference to Make In India products (For bids < 200 Crore):Preference shall be given to Class 1 local supplier\nas defined in public procurement (Preference to Make in India), Order 2017 as amended from time to time and its\nsubsequent Orders/Notifications issued by concerned Nodal Ministry for specific Goods/Products. The minimum\nlocal content to qualify as a Class 1 local supplier is denoted in the bid document. If the bidder wants to avail the\nPurchase preference, the bidder must upload a certificate from the OEM regarding the percentage of the local\ncontent and the details of locations at which the local value addition is made along with their bid, failing which\nno purchase preference shall be granted. In case the bid value is more than Rs 10 Crore, the declaration relating\nto percentage of local content shall be certified by the statutory auditor or cost auditor, if the OEM is a company\nand by a practicing cost accountant or a chartered accountant for OEMs other than companies as per the Public\nProcurement (preference to Make-in -India) order 2017 dated 04.06.2020. Only Class-I and Class-II Local suppliers\nas per MII order dated 4.6.2020 will be eligible to bid. Non - Local suppliers as per MII order dated 04.06.2020 are\nnot eligible to participate. However, eligible micro and small enterprises will be allowed to participate.The buyers\nare advised to refer the OM No.F.1/4/2021-PPD dated 18.05.2023 OM_No.1_4_2021_PPD_dated_18.05.2023 for\ncompliance of Concurrent application of Public Procurement Policy for Micro and Small Enterprises Order, 2012\nand Public Procurement (Preference to Make in India) Order, 2017.\n5. Purchase preference will be given to MSEs having valid Udyam Registration and whose credentials are\n3 / 7"
+    },
+    {
+      "page": 4,
+      "text": "validated online through Udyam Registration portal as defined in Public Procurement Policy for Micro and Small\nEnterprises (MSEs) Order, 2012 dated 23.03.2012 issued by Ministry of Micro, Small and Medium Enterprises and\nits subsequent Orders/Notifications issued by concerned Ministry. If the bidder wants to avail themselves of the\nPurchase preference, the bidder must be the manufacturer / OEM of the offered product on GeM. Traders are\nexcluded from the purview of Public Procurement Policy for Micro and Small Enterprises and hence resellers\noffering products manufactured by some other OEM are not eligible for any purchase preference. In respect of bid\nfor Services, the bidder must be the Service provider of the offered Service. Relevant documentary evidence in\nthis regard shall be uploaded along with the bid in respect of the offered product or service and Buyer will decide\neligibility for purchase preference based on documentary evidence submitted, while evaluating the bid. If L-1 is\nnot an MSE and MSE Seller (s) has / have quoted price within L-1+ 15% (Selected by Buyer) of margin of\npurchase preference /price band defined in relevant policy, such MSE Seller shall be given opportunity to match\nL-1 price and contract will be awarded for 25% (selected by Buyer) percentage of total quantity. The buyers are\nadvised to refer the OM No. F.1/4/2021-PPD dated 18.05.2023 OM_No.1_4_2021_PPD_dated_18.05.2023 for\ncompliance of Concurrent application of Public Procurement Policy for Micro and Small Enterprises Order, 2012\nand Public Procurement (Preference to Make in India) Order, 2017. Benefits of MSE will be allowed only if seller is\nvalidated on-line in GeM profile as well as validated and approved by Buyer after evaluation of documents\nsubmitted.\n6. Estimated Bid Value indicated above is being declared solely for the purpose of guidance on EMD amount and\nfor determining the Eligibility Criteria related to Turn Over, Past Performance and Project / Past Experience etc.\nThis has no relevance or bearing on the price to be quoted by the bidders and is also not going to have any\nimpact on bid participation. Also this is not going to be used as a criteria in determining reasonableness of\nquoted prices which would be determined by the buyer based on its own assessment of reasonableness and\nbased on competitive prices received in Bid / RA process.\n3-Phase Squirrel Cage Induction Motor, KW– 7.5, HP– 10, FRAME-KI-132S, Voltage: -\n415V+ /- 10% , Cu ( 1 pieces )\n((cid:63)(cid:63)ममशशःः (cid:39)(cid:39)णेणे ीी 1 औऔरर (cid:39)(cid:39)णेणे ीी 2 ककेे (cid:38)(cid:38)थथााननीीयय आआपपूिूिततक(cid:37)क(cid:37) तताा(cid:37) (cid:37)ककेे (cid:101)(cid:101)पप मम(cid:41)(cid:41) अअहह(cid:37)त(cid:37)ताा (cid:53)(cid:53)ाा(cid:62)(cid:62) ककररननेे ककेे ििललएए आआवव(cid:81)(cid:81)ययकक/Minimum 50% and 20% Local\nContent required for qualifying as Class 1 and Class 2 Local Supplier respectively)\nततककननीीकक(cid:16)(cid:16) (cid:1)(cid:1)ववििशश(cid:1)(cid:1)(cid:89)(cid:89)ययााँ ँ /Technical Specifications\n(cid:63)ेता (cid:1)विश(cid:1)(cid:89) द(cid:38)तावेज़ /Buyer\nDownload\nSpecification Document\nपपररेे(cid:1)(cid:1)षषततीी//(cid:47)(cid:47)ररपपोो(cid:66)(cid:66)टट(cid:102)(cid:102)गग अअििधधककाारर(cid:19)(cid:19) ततथथाा ममाा(cid:32)(cid:32)ाा/Consignees/Reporting Officer and Quantity\nपपररेे(cid:1)(cid:1)षषततीी//(cid:47)(cid:47)ररपपोो(cid:66)(cid:66)टट(cid:102)(cid:102)गग\n(cid:63)(cid:63)..ससं.ं./S.N (cid:66)(cid:66)डडललीीववरर(cid:19)(cid:19) ककेे (cid:66)(cid:66)ददनन/Delivery\no. अअििधधककाारर(cid:19)(cid:19) /Consignee पपतताा/Address ममाा(cid:32)(cid:32)ाा /Quantity Days\nReporting/Officer\n516349,CHIEF CONTROLLER OF\nPURCHASE, URANIUM\nMooraboina CORPORATION OF INDIA\n1 1 90\nSubbarayudu LIMITED, MC PALLE (POST),\nVEMULA (MANDAL), YSR\nKADAPA DISTRICT, AP\n3-Phase Squirrel Cage Induction Motor, KW– 9.3, HP– 12.5, Type: HX -+ 160MLB4,\nVoltage: - 415V+ /- ( 1 pieces )\n((cid:63)(cid:63)ममशशःः (cid:39)(cid:39)णेणे ीी 1 औऔरर (cid:39)(cid:39)णेणे ीी 2 ककेे (cid:38)(cid:38)थथााननीीयय आआपपूिूिततक(cid:37)क(cid:37) तताा(cid:37) (cid:37)ककेे (cid:101)(cid:101)पप मम(cid:41)(cid:41) अअहह(cid:37)त(cid:37)ताा (cid:53)(cid:53)ाा(cid:62)(cid:62) ककररननेे ककेे ििललएए आआवव(cid:81)(cid:81)ययकक/Minimum 50% and 20% Local\nContent required for qualifying as Class 1 and Class 2 Local Supplier respectively)\nततककननीीकक(cid:16)(cid:16) (cid:1)(cid:1)ववििशश(cid:1)(cid:1)(cid:89)(cid:89)ययााँ ँ /Technical Specifications\n4 / 7"
+    },
+    {
+      "page": 5,
+      "text": "(cid:63)ेता (cid:1)विश(cid:1)(cid:89) द(cid:38)तावेज़ /Buyer\nDownload\nSpecification Document\nपपररेे(cid:1)(cid:1)षषततीी//(cid:47)(cid:47)ररपपोो(cid:66)(cid:66)टट(cid:102)(cid:102)गग अअििधधककाारर(cid:19)(cid:19) ततथथाा ममाा(cid:32)(cid:32)ाा/Consignees/Reporting Officer and Quantity\nपपररेे(cid:1)(cid:1)षषततीी//(cid:47)(cid:47)ररपपोो(cid:66)(cid:66)टट(cid:102)(cid:102)गग\n(cid:63)(cid:63)..ससं.ं./S.N (cid:66)(cid:66)डडललीीववरर(cid:19)(cid:19) ककेे (cid:66)(cid:66)ददनन/Delivery\no. अअििधधककाारर(cid:19)(cid:19) /Consignee पपतताा/Address ममाा(cid:32)(cid:32)ाा /Quantity Days\nReporting/Officer\n516349,CHIEF CONTROLLER OF\nPURCHASE, URANIUM\nMooraboina CORPORATION OF INDIA\n1 1 90\nSubbarayudu LIMITED, MC PALLE (POST),\nVEMULA (MANDAL), YSR\nKADAPA DISTRICT, AP\n/Buyer Added Bid Specific Terms and Conditions\n(cid:63)(cid:63)ेेतताा (cid:76)(cid:76)ाारराा जजोोड़ड़(cid:19)(cid:19) गगईई (cid:1)(cid:1)बबडड कक(cid:16)(cid:16) (cid:1)(cid:1)ववशशेषेष शशतत(cid:105)(cid:105)\n1. Generic\nOPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up\nto 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to\nincrease the ordered quantity up to 25% of the contracted quantity during the currency of the contract at\nthe contracted rates. The delivery period of quantity shall commence from the last date of original\ndelivery order and in cases where option clause is exercised during the extended delivery period the\nadditional time shall commence from the last date of extended delivery period. The additional delivery\ntime shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to\nminimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the\noriginal delivery period. The Purchaser may extend this calculated delivery duration up to the original\ndelivery period while exercising the option clause. Bidders must comply with these terms.\n2. Scope of Supply\nScope of supply (Bid price to include all cost components) : Only supply of Goods\n3. Buyer Added Bid Specific ATC\nBuyer Added text based ATC clauses\nPre Qualification Criteria\na) Bidder should submit any one previous purchase order and i\nts respective invoice copy supplied to any reputed company/\nagency of similar items i.e. ‘’3 phase squirrel cage induction\nmotor’’ in the last 3 financial years ending with 31.03.2025(2\n022-2023, 2023-2024 & 2024-2025), along with part-1 of thei\n5 / 7"
+    },
+    {
+      "page": 6,
+      "text": "r offer, failing which their offer shall be rejected.\n.\n4. Buyer Added Bid Specific ATC\nBuyer uploaded ATC document Click here to view the file.\n/Disclaimer\nअअ(cid:38)(cid:38)ववीीककररणण\nThe additional terms and conditions have been incorporated by the Buyer after approval of the Competent\nAuthority in Buyer Organization, whereby Buyer organization is solely responsible for the impact of these clauses\non the bidding process, its outcome, and consequences thereof including any eccentricity / restriction arising in\nthe bidding process due to these ATCs and due to modification of technical specifications and / or terms and\nconditions governing the bid. If any clause(s) is / are incorporated by the Buyer regarding following, the bid and\nresultant contracts shall be treated as null and void and such bids may be cancelled by GeM at any stage of\nbidding process without any notice:-\n1. Definition of Class I and Class II suppliers in the bid not in line with the extant Order / Office Memorandum\nissued by DPIIT in this regard.\n2. Seeking EMD submission from bidder(s), including via Additional Terms & Conditions, in contravention to\nexemption provided to such sellers under GeM GTC.\n3. Publishing Custom / BOQ bids for items for which regular GeM categories are available without any\nCategory item bunched with it.\n4. Creating BoQ bid for single item.\n5. Mentioning specific Brand or Make or Model or Manufacturer or Dealer name.\n6. Mandating submission of documents in physical form as a pre-requisite to qualify bidders.\n7. Floating / creation of work contracts as Custom Bids in Services.\n8. Seeking sample with bid or approval of samples during bid evaluation process. (However, in bids for\nattached categories, trials are allowed as per approved procurement policy of the buyer nodal Ministries)\n9. Mandating foreign / international certifications even in case of existence of Indian Standards without\nspecifying equivalent Indian Certification / standards.\n10. Seeking experience from specific organization / department / institute only or from foreign / export\nexperience.\n11. Creating bid for items from irrelevant categories.\n12. Incorporating any clause against the MSME policy and Preference to Make in India Policy.\n13. Reference of conditions published on any external site or reference to external documents/clauses.\n14. Asking for any Tender fee / Bid Participation fee / Auction fee in case of Bids / Forward Auction, as the\ncase may be.\n15. Buyer added ATC Clauses which are in contravention of clauses defined by buyer in system generated bid\ntemplate as indicated above in the Bid Details section, EMD Detail, ePBG Detail and MII and MSE Purchase\nPreference sections of the bid, unless otherwise allowed by GeM GTC.\n16. In a category based bid, adding additional items, through buyer added additional scope of work/ additional\nterms and conditions/or any other document. If buyer needs more items along with the main item, the\nsame must be added through bunching category based items or by bunching custom catalogs or\nbunching a BoQ with the main category based item, the same must not be done through ATC or Scope of\nWork.\nFurther, if any seller has any objection/grievance against these additional clauses or otherwise on any aspect of\nthis bid, they can raise their representation against the same by using the Representation window provided in\nthe bid details field in Seller dashboard after logging in as a seller within 4 days of bid publication on GeM. Buyer\nis duty bound to reply to all such representations and would not be allowed to open bids if he fails to reply to\nsuch representations.\nAll GeM Sellers / Service Providers are mandated to ensure compliance with all the applicable laws /\nacts / rules including but not limited to all Labour Laws such as The Minimum Wages Act, 1948, The\n6 / 7"
+    },
+    {
+      "page": 7,
+      "text": "Payment of Wages Act, 1936, The Payment of Bonus Act, 1965, The Equal Remuneration Act, 1976,\nThe Payment of Gratuity Act, 1972 etc. Any non-compliance will be treated as breach of contract\nand Buyer may take suitable actions as per GeM Contract.\nयह (cid:1)बड सामा(cid:56)य शत(cid:59) के अतं गत(cid:37) भी शािसत है /This Bid is also governed by the General Terms and Conditions\nजेम क(cid:16) सामा(cid:56)य शत(cid:59) के खंड 26 के संदभ (cid:37) म(cid:41) भारत के साथ भूिम सीमा साझा करने वाले देश के (cid:1)बडर से खर(cid:19)द पर (cid:53)ितबंध के संबंध म(cid:41)\nभारत के साथ भूिम सीमा साझा करने वाले देश का कोई भी (cid:1)बडर इस िन(cid:1)वदा म(cid:41) (cid:1)बड देने के िलए तभी पा(cid:32) होगा जब वह (cid:1)बड देने वाला\nस(cid:57)म (cid:53)ािधकार(cid:19) के पास पंजीकृत हो।(cid:1)बड म(cid:41) भाग लेते समय (cid:1)बडर को इसका अनुपालन करना होगा और कोई भी गलत घोषणा (cid:66)कए जाने\nव इसका अनुपालन न करने पर अनुबंध को त(cid:86)काल समा(cid:62) करने और कानून के अनुसार आगे क(cid:16) कानूनी कार(cid:37)वाई का आधार होगा।/In terms\nof GeM GTC clause 26 regarding Restrictions on procurement from a bidder of a country which shares a land border with India, any bidder from a country which shares a\nland border with India will be eligible to bid in this tender only if the bidder is registered with the Competent Authority. While participating in bid, Bidder has to undertake\ncompliance of this and any false declaration and non-compliance of this would be a ground for immediate termination of the contract and further legal action in\naccordance with the laws.\n---धध(cid:56)(cid:56)ययववाादद/Thank You---\n7 / 7"
+    }
+  ],
+  "raw_tables": [
+    {
+      "page": 1,
+      "rows": [
+        {
+          "(cid:1)(cid:1)बबडड (cid:1)(cid:1)ववववररणण//Bid Details": "(cid:1)(cid:1)बबडड बबंदंद हहोोनने े कक(cid:16)(cid:16) तताारर(cid:19)(cid:19)खख//ससममयय /Bid End Date/Time",
+          "col_1": "12-12-2025 09:00:00"
+        },
+        {
+          "(cid:1)(cid:1)बबडड (cid:1)(cid:1)ववववररणण//Bid Details": "(cid:1)(cid:1)बबडड खखुलुलनने े कक(cid:16)(cid:16) तताारर(cid:19)(cid:19)खख//ससममयय /Bid Opening\nDate/Time",
+          "col_1": "12-12-2025 09:30:00"
+        },
+        {
+          "(cid:1)(cid:1)बबडड (cid:1)(cid:1)ववववररणण//Bid Details": "(cid:1)(cid:1)बबडड पपेशेशककशश ववैधैधतताा ((बबंदंद हहोोनने े कक(cid:16)(cid:16) तताारर(cid:19)(cid:19)खख ससे)े)/Bid Offer\nValidity (From End Date)",
+          "col_1": "180 (Days)"
+        },
+        {
+          "(cid:1)(cid:1)बबडड (cid:1)(cid:1)ववववररणण//Bid Details": "ममं(cid:32)ं(cid:32)ााललयय//रराा(cid:33)(cid:33)यय ककाा ननाामम/Ministry/State Name",
+          "col_1": "Pmo"
+        },
+        {
+          "(cid:1)(cid:1)बबडड (cid:1)(cid:1)ववववररणण//Bid Details": "(cid:1)(cid:1)ववभभाागग ककाा ननाामम/Department Name",
+          "col_1": "Department Of Atomic Energy"
+        },
+        {
+          "(cid:1)(cid:1)बबडड (cid:1)(cid:1)ववववररणण//Bid Details": "ससंगंगठठनन ककाा ननाामम/Organisation Name",
+          "col_1": "Uranium Corporation Of India Limited"
+        },
+        {
+          "(cid:1)(cid:1)बबडड (cid:1)(cid:1)ववववररणण//Bid Details": "ककााययााल(cid:37)ल(cid:37) यय ककाा ननाामम/Office Name",
+          "col_1": "Kadapa"
+        },
+        {
+          "(cid:1)(cid:1)बबडड (cid:1)(cid:1)ववववररणण//Bid Details": "ककुुलल ममाा(cid:32)(cid:32)ाा/Total Quantity",
+          "col_1": "2"
+        },
+        {
+          "(cid:1)(cid:1)बबडड (cid:1)(cid:1)ववववररणण//Bid Details": "वव(cid:38)(cid:38)ततु ु (cid:39)(cid:39)णेणे ीी /Item Category",
+          "col_1": "3-Phase squirrel cage induction motor, KW– 7.5, HP– 10,\nFRAME-KI-132S, Voltage: - 415V+ /- 10% , cu , 3-Phase\nsquirrel cage induction motor, KW– 9.3, HP– 12.5, Type: HX -\n+ 160MLB4, Voltage: - 415V+ /-"
+        },
+        {
+          "(cid:1)(cid:1)बबडड (cid:1)(cid:1)ववववररणण//Bid Details": "GeMARPTS मम(cid:41) (cid:41) खखोोजजीी गगईई (cid:44)(cid:44)(cid:38)(cid:38)(cid:45)(cid:45)ंं(cid:46)(cid:46)सस / Searched\nStrings used in GeMARPTS",
+          "col_1": "3-Phase squirrel cage induction motor, KW – 9.3, HP – 12.5,\nType: HX -+160MLB4, Voltage: - 415V +/- 10%, current –\n18.8 Amps, Rpm-1455, P.F -0.81, freq- 50HZ, Efficiency-\n88%, Duty-S1, Ins-Class-F, IP-55, IS-325, connection-delta,\nAmbient temp- 50degC, frame material motor must be Cast\niron body Existing make: ABB"
+        },
+        {
+          "(cid:1)(cid:1)बबडड (cid:1)(cid:1)ववववररणण//Bid Details": "GeMARPTS मम(cid:41) (cid:41) खखोोजजाा गगययाा पप(cid:47)(cid:47)ररणणाामम / Searched\nResult generated in GeMARPTS",
+          "col_1": "Category not available on GeM for the text string uploaded\nby the buyer"
+        },
+        {
+          "(cid:1)(cid:1)बबडड (cid:1)(cid:1)ववववररणण//Bid Details": "अअििधधससूचूचननाा ककेे ििललएए चचययििननतत (cid:53)(cid:53)ााससंिंिगगकक (cid:39)(cid:39)(cid:44)े(cid:44)ेणणययााँ ँ / Relevant\nCategories selected for notification",
+          "col_1": "Line Operated Three Phase AC Motors ISI Marked to IS\n12615"
+        },
+        {
+          "(cid:1)(cid:1)बबडड (cid:1)(cid:1)ववववररणण//Bid Details": "उउ(cid:56)(cid:56)हह(cid:19)(cid:19)ं/ं/ससममाानन ससेवेवाा ककेे ििललएए अअपपे(cid:44)े(cid:44)(cid:57)(cid:57)तत (cid:1)(cid:1)ववगगतत अअननुभुभवव ककेे\nववषष/(cid:37)(cid:37)Years of Past Experience Required for\nsame/similar service",
+          "col_1": "3 Year (s)"
+        },
+        {
+          "(cid:1)(cid:1)बबडड (cid:1)(cid:1)ववववररणण//Bid Details": "ववषष(cid:59)(cid:59) ककेे अअननुभुभवव ककेे ििललएए एएममएएससईई ककोो छछूूटट (cid:53)(cid:53)ाा(cid:62)(cid:62) हहैै / MSE\nExemption for Years Of Experience",
+          "col_1": "Yes | Complete"
+        },
+        {
+          "(cid:1)(cid:1)बबडड (cid:1)(cid:1)ववववररणण//Bid Details": "ववषष(cid:59)(cid:59) ककेे अअननुभुभवव ककेे ििललएए (cid:38)(cid:38)टटााटट(cid:37)(cid:37)अअपप ककोो छछूूटट (cid:53)(cid:53)ाा(cid:62)(cid:62) हहैै / Startup\nExemption for Years Of Experience",
+          "col_1": "Yes | Complete"
+        },
+        {
+          "(cid:1)(cid:1)बबडड (cid:1)(cid:1)ववववररणण//Bid Details": "(cid:1)(cid:1)वव(cid:63)(cid:63)ेेतताा ससे े ममाांगंगे े गगएए दद(cid:38)(cid:38)ततााववेज़ेज़/Document required\nfrom seller",
+          "col_1": "Experience Criteria,Certificate (Requested in ATC)\n*In case any bidder is seeking exemption from Experience /\nTurnover Criteria, the supporting documents to prove his\neligibility for exemption must be uploaded for evaluation by\nthe buyer"
+        },
+        {
+          "(cid:1)(cid:1)बबडड (cid:1)(cid:1)ववववररणण//Bid Details": "",
+          "col_1": null
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "rows": [
+        {
+          "col_0": "(cid:1)(cid:1)बबडड (cid:1)(cid:1)ववववररणण//Bid Details",
+          "col_1": null
+        },
+        {
+          "col_0": "(cid:73)(cid:73)ययाा आआपप ििनन(cid:1)(cid:1)ववददााककाारर(cid:75)(cid:75) (cid:76)(cid:76)ाारराा अअपपललोोडड (cid:66)(cid:66)ककएए गगएए दद(cid:38)(cid:38)ततााववेज़ेज़(cid:75)(cid:75) ककोो\nििनन(cid:1)(cid:1)ववददाा मम(cid:41) (cid:41) भभाागग ललेनेने े ववाालले े ससभभीी ििनन(cid:1)(cid:1)ववददााककाारर(cid:75)(cid:75) ककोो (cid:66)(cid:66)ददखखााननाा\nचचााहहतते े हह(cid:77)(cid:77)?? ससंदंदभभ (cid:37) (cid:37) ममेनेनू ू हहैै/Do you want to show\ndocuments uploaded by bidders to all\nbidders participated in bid?",
+          "col_1": "Yes (Documents submitted as part of a clarification or\nrepresentation during the tender/bid process will also be\ndisplayed to other participated bidders after log in)"
+        },
+        {
+          "col_0": "(cid:1)(cid:1)बबडड ललगगाानने े कक(cid:16)(cid:16) ससममयय ससीीममाा (cid:38)(cid:38)ववततःः ननहह(cid:19)(cid:19)ं ं बबढ़ढ़ाानने े ककेे ििललएए\nआआवव(cid:81)(cid:81)ययकक (cid:1)(cid:1)बबडड कक(cid:16)(cid:16) ससं(cid:65)ं(cid:65)ययाा।। / Minimum number of\nbids required to disable automatic bid\nextension",
+          "col_1": "3"
+        },
+        {
+          "col_0": "(cid:66)(cid:66)ददनन(cid:75)(cid:75) कक(cid:16)(cid:16) ससं(cid:65)ं(cid:65)ययाा,, (cid:44)(cid:44)जजननककेे ििललएए (cid:1)(cid:1)बबडड ललगगाानने े कक(cid:16)(cid:16) ससममयय--ससीीममाा\nबबढ़ढ़ााईई जजााएएगगीी।। // Number of days for which Bid\nwould be auto--extended",
+          "col_1": "7"
+        },
+        {
+          "col_0": "ऑऑटटोो एए(cid:73)(cid:73)ससटट(cid:41)(cid:41)शशनन अअििधधककततमम (cid:66)(cid:66)ककततननीी बबाारर (cid:66)(cid:66)ककययाा जजााननाा हहैै।। //\nNumber of Auto Extension count",
+          "col_1": "1"
+        },
+        {
+          "col_0": "(cid:1)(cid:1)बबडड ससे े (cid:47)(cid:47)ररववसस (cid:37) (cid:37) ननीीललााममीी सस(cid:66)(cid:66)(cid:63)(cid:63)यय (cid:66)(cid:66)ककययाा/Bid to RA enabled",
+          "col_1": "No"
+        },
+        {
+          "col_0": "(cid:1)(cid:1)बबडड ककाा (cid:53)(cid:53)ककाारर/Type of Bid",
+          "col_1": "Two Packet Bid"
+        },
+        {
+          "col_0": "(cid:53)(cid:53)ााथथििममकक उउ(cid:86)(cid:86)पपाादद (cid:39)(cid:39)णेणे ीी/Primary product category",
+          "col_1": "3-Phase squirrel cage induction motor, KW– 7.5, HP– 10,\nFRAME-KI-132S, Voltage: - 415V+ /- 10% , cu"
+        },
+        {
+          "col_0": "ततककननीीकक(cid:16)(cid:16) ममू(cid:87)ू(cid:87)ययाांकंकनन ककेे ददौौरराानन ततककननीीकक(cid:16)(cid:16) (cid:38)(cid:38)पप(cid:89)(cid:89)ीीककररणण हहेेततुु\nअअननुमुमतत ससममयय /Time allowed for Technical\nClarifications during technical evaluation",
+          "col_1": "3 Days"
+        },
+        {
+          "col_0": "ििननरर(cid:19)(cid:19)(cid:57)(cid:57)णण आआवव(cid:81)(cid:81)ययकक (ससूचूचीीबब(cid:90)(cid:90) ििननरर(cid:19)(cid:19)(cid:57)(cid:57)णण (cid:53)(cid:53)ााििधधककररणण /जजेमेम ककेे ससााथथ\nपपूवूव(cid:37) (cid:37)पपंजंजीीककृृतत एएजज(cid:41)ि(cid:41)िससयय(cid:75)(cid:75) (cid:76)(cid:76)ाारराा)/Inspection Required (By\nEmpanelled Inspection Authority / Agencies\npre-registered with GeM)",
+          "col_1": "No"
+        },
+        {
+          "col_0": "ममू(cid:87)ू(cid:87)ययाांकंकनन पप(cid:90)(cid:90)िितत/Evaluation Method",
+          "col_1": "Total value wise evaluation"
+        },
+        {
+          "col_0": "मम(cid:92)(cid:92)यय(cid:38)(cid:38)थथतताा खखंडंड/Arbitration Clause",
+          "col_1": "No"
+        },
+        {
+          "col_0": "ससुलुलहह खखंडंड/Mediation Clause",
+          "col_1": "No"
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "rows": []
+    },
+    {
+      "page": 2,
+      "rows": []
+    },
+    {
+      "page": 3,
+      "rows": [
+        {
+          "एमआईआई खर(cid:19)द वर(cid:19)यता / MII Purchase Preference": "मेक इन इं(cid:66)डया (cid:1)व(cid:63)ेताओं को खर(cid:19)द म(cid:41) (cid:53)ाथिमकता, य(cid:66)द\nउनका मू(cid:87)य L1+X% तक क(cid:16) सीमा म(cid:41) है / Purchase\nPreference to MII sellers availabele upto price\nwithin L1+X%",
+          "Yes": "20"
+        },
+        {
+          "एमआईआई खर(cid:19)द वर(cid:19)यता / MII Purchase Preference": "मेक इन इं(cid:66)डया खर(cid:19)द म(cid:41) (cid:53)ाथिमकता के िलए (cid:1)बड क(cid:16) मा(cid:32)ा\nका अिधकतम (cid:53)ितशत / Maximum Percentage of Bid\nquantity for MII purchase preference",
+          "Yes": "50"
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "rows": [
+        {
+          "एमएसई खर(cid:19)द वर(cid:19)यता/MSE Purchase Preference": "सू(cid:97)म और लघु उ(cid:100)म मूल उपकरण िनमात(cid:37) ाओं को खर(cid:19)द म(cid:41)\n(cid:53)ाथिमकता, य(cid:66)द उनका मू(cid:87)य L1+X% तक क(cid:16) सीमा म(cid:41) हो /\nPurchase Preference to MSE OEMs available upto\nprice within L1+X%",
+          "Yes": "15"
+        },
+        {
+          "एमएसई खर(cid:19)द वर(cid:19)यता/MSE Purchase Preference": "सू(cid:97)म और लघु उ(cid:100)म को खर(cid:19)द म(cid:41) (cid:53)ाथिमकता के िलए (cid:1)बड\nक(cid:16) मा(cid:32)ा का अिधकतम (cid:53)ितशत / Maximum\nPercentage of Bid quantity for MSE purchase\npreference",
+          "Yes": "25"
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "rows": []
+    },
+    {
+      "page": 4,
+      "rows": [
+        {
+          "(cid:63)(cid:63)..ससं.ं./S.N\no.": "1",
+          "पपररेे(cid:1)(cid:1)षषततीी//(cid:47)(cid:47)ररपपोो(cid:66)(cid:66)टट(cid:102)(cid:102)गग\nअअििधधककाारर(cid:19)(cid:19) /Consignee\nReporting/Officer": "Mooraboina\nSubbarayudu",
+          "पपतताा/Address": "516349,CHIEF CONTROLLER OF\nPURCHASE, URANIUM\nCORPORATION OF INDIA\nLIMITED, MC PALLE (POST),\nVEMULA (MANDAL), YSR\nKADAPA DISTRICT, AP",
+          "ममाा(cid:32)(cid:32)ाा /Quantity": "1",
+          "(cid:66)(cid:66)डडललीीववरर(cid:19)(cid:19) ककेे (cid:66)(cid:66)ददनन/Delivery\nDays": "90"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "rows": []
+    },
+    {
+      "page": 5,
+      "rows": [
+        {
+          "(cid:63)(cid:63)..ससं.ं./S.N\no.": "1",
+          "पपररेे(cid:1)(cid:1)षषततीी//(cid:47)(cid:47)ररपपोो(cid:66)(cid:66)टट(cid:102)(cid:102)गग\nअअििधधककाारर(cid:19)(cid:19) /Consignee\nReporting/Officer": "Mooraboina\nSubbarayudu",
+          "पपतताा/Address": "516349,CHIEF CONTROLLER OF\nPURCHASE, URANIUM\nCORPORATION OF INDIA\nLIMITED, MC PALLE (POST),\nVEMULA (MANDAL), YSR\nKADAPA DISTRICT, AP",
+          "ममाा(cid:32)(cid:32)ाा /Quantity": "1",
+          "(cid:66)(cid:66)डडललीीववरर(cid:19)(cid:19) ककेे (cid:66)(cid:66)ददनन/Delivery\nDays": "90"
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "page": 3,
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "ext": "in/bidding/downloadomppdfile/",
+      "raw": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/"
+    },
+    {
+      "page": 4,
+      "url": "https://mkp.gem.gov.in/catalog_data/catalog_support_document/buyer_documents/16559666/54/78/703/CatalogAttrs/SpecificationDocument/2025/11/11/material_details2_2025-11-11-16-41-56_030e8bec49ae70dfe509a6bb210d5ed9.pdf",
+      "ext": "pdf",
+      "raw": "material_details2_2025-11-11-16-41-56_030e8bec49ae70dfe509a6bb210d5ed9.pdf"
+    },
+    {
+      "page": 5,
+      "url": "https://mkp.gem.gov.in/catalog_data/catalog_support_document/buyer_documents/16559666/54/78/703/CatalogAttrs/SpecificationDocument/2025/11/11/material_details1_2025-11-11-16-40-55_188ffbe87f213700ce3c11f3fd1de1b3.pdf",
+      "ext": "pdf",
+      "raw": "material_details1_2025-11-11-16-40-55_188ffbe87f213700ce3c11f3fd1de1b3.pdf"
+    },
+    {
+      "page": 6,
+      "url": "https://fulfilment.gem.gov.in/contract/slafds?fileDownloadPath=SLA_UPLOAD_PATH/2025/Nov/GEM_2025_B_6881275/CLM0010/ATC_e35003e0-5c48-416d-90751762927349227_tmplcustombid5.doc",
+      "ext": "",
+      "raw": "slafds"
+    },
+    {
+      "page": 6,
+      "url": "https://assets-bg.gem.gov.in/resources/upload/shared_doc/list-of-categories-where-trials-are-allowed_1712126171.pdf",
+      "ext": "pdf",
+      "raw": "list-of-categories-where-trials-are-allowed_1712126171.pdf"
+    },
+    {
+      "page": 7,
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20251112",
+      "ext": "in/apis/v1/gtc/pdfbydate/?date=20251112",
+      "raw": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20251112"
+    }
+  ]
+}

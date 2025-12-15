@@ -1,0 +1,739 @@
+{
+  "important_terms": [
+    "Bid to RA enabled: Yes",
+    "RA Qualification Rule: 50% Lowest Priced Technically Qualified Bidders",
+    "Evaluation Method: Total value wise evaluation",
+    "Financial Document Indicating Price Breakup Required: Yes",
+    "Arbitration Clause: No",
+    "Mediation Clause: No",
+    "Minimum number of bids to disable auto extension: 3",
+    "Bid auto-extension: 3 days, up to 2 times",
+    "Service providers can include additional charges up to a specified percentage of the item-level total value, with supporting documents.",
+    "Office of Service Provider must be located in the state of Consignee.",
+    "Seller shall not assign or sub-contract the contract without prior written consent of buyer.",
+    "Seller remains jointly and severally liable with assignee/sub-contractor.",
+    "Compliance with all applicable laws including Labour Laws is mandatory.",
+    "Bid is governed by General Terms and Conditions and Service Level Agreement; SLA overrides GTC in case of contradiction.",
+    "Restrictions on procurement from bidders of countries sharing land border with India unless registered with Competent Authority."
+  ],
+  "bid_no": "GEM/2025/B/6892639",
+  "total_quantity": "24",
+  "experience_req": {
+    "years_of_past_experience": "3",
+    "similar_services_required": "True",
+    "details": "Bidder must have experience of providing similar services to any Central/State Govt Organization/PSU for 3 years. Three similar completed services costing not less than 40% of estimated cost, or two similar completed services costing not less than 50%, or one similar completed service costing not less than 80% of estimated cost.",
+    "acceptable_documents": [
+      "Contract copy along with Invoice(s) with self-certification by the bidder that service/supplies against the invoices have been executed.",
+      "Execution certificate by client with contract value.",
+      "Any other document in support of contract execution like Third Party Inspection release note, etc."
+    ]
+  },
+  "major_docs": [
+    "Experience Criteria",
+    "Bidder Turnover",
+    "Certificate (Requested in ATC)",
+    "Additional Doc 1 (Requested in ATC)",
+    "Certified Audited Balance Sheets or CA/Cost Accountant certificate for turnover",
+    "Copies of relevant contracts/orders for experience",
+    "Buyer Added ATC document",
+    "Buyer Added Bid Specific SLA"
+  ],
+  "start_date": "21-11-2025",
+  "document_submission_req": "['Service providers must declare applicability of additional charges during invoice creation and submit mandatory supporting documents.', 'Documentary evidence of office location in the state of Consignee.', 'Proof for Past Experience and Project Experience clause: any one of the following - contract copy with invoice(s) and self-certification, execution certificate by client with contract value, or any other document in support of contract execution (e.g., Third Party Inspection release note).']",
+  "emd_or_fee": {
+    "submission_instructions": "Upload scanned copy/proof of the DD along with bid and ensure delivery of hardcopy to the Buyer within 5 days of Bid End date / Bid Opening date.",
+    "forms_accepted": [
+      "Account Payee Demand Draft"
+    ],
+    "ePBG_percentage": "5.0",
+    "advisory_bank": "State Bank of India",
+    "ePBG_duration_months": "38",
+    "emd_amount": "155330",
+    "payable_at": "LUCKNOW",
+    "in_favour_of": "SP HQ UPPRPB"
+  },
+  "buyer_terms": [
+    "Option Clause: Buyer can increase/decrease contract quantity or duration up to 25% at contract issue or later",
+    "Excess Settlement enabled",
+    "Bid splitting not applied",
+    "MII Compliance: Yes",
+    "MSE Purchase Preference: No",
+    "Buyer is responsible for additional terms and conditions (ATCs) and their impact.",
+    "Sellers can raise objections/grievances via Representation window within 4 days of bid publication.",
+    "Buyer must reply to all representations before opening bids."
+  ],
+  "eligibility_criteria": [
+    "Minimum average annual turnover of 45 Lakh in last 3 years",
+    "3 years of experience in similar services to Govt/PSU",
+    "Past experience of similar services as per specified cost criteria",
+    "Geographical presence in Uttar Pradesh required",
+    "Office of Service Provider must be located in the state of Consignee.",
+    "Bidder from a country sharing land border with India must be registered with Competent Authority."
+  ],
+  "exemptions": [
+    "No MSE Exemption for Experience and Turnover",
+    "No Startup Exemption for Experience and Turnover",
+    "EMD exemption only for eligible MSE manufacturers/service providers (not traders) with valid documents",
+    "EMD submission exemptions as per GeM GTC.",
+    "No tender fee/bid participation fee/auction fee to be asked."
+  ],
+  "full_text_summary": "This tender (Bid No: GEM/2025/B/6892639) by the Uttar Pradesh Police Recruitment And Promotion Board is for manpower outsourcing services (Skilled, Unskilled, and ITI-Skilled categories) for 3 years and 1 day. The total requirement is 24 personnel (14 skilled, 9 unskilled, 1 ITI-skilled) at a specified location in Lucknow. Bidders must have a minimum average annual turnover of 45 lakh over the last 3 years and at least 3 years of experience in providing similar services to government/PSUs. No MSE or Startup exemption is allowed for experience or turnover. EMD of 1,55,330 INR and ePBG of 5% for 38 months are required. The bid follows a two-packet system, with total value-wise evaluation and reverse auction among the lowest 50% technically qualified bidders. All relevant documents for eligibility and any exemption claims must be uploaded. The buyer reserves the right to increase/decrease contract quantity or duration by up to 25%.",
+  "tender_dates": {
+    "bid_end": "06-12-2025 16:00:00",
+    "bid_opening": "06-12-2025 16:30:00",
+    "bid_validity_days": "90"
+  },
+  "bid_type": "Two Packet Bid",
+  "turnover_req": {
+    "years": "3",
+    "min_avg_annual_turnover": "45 Lakh"
+  },
+  "end_date": "06-12-2025 16:00:00",
+  "undertakings": [
+    "Undertaking that Minimum Wages indicated are as per applicable Minimum Wages Act",
+    "Bidder must undertake compliance with restrictions on procurement from countries sharing land border with India and provide truthful declarations."
+  ],
+  "items": [
+    {
+      "category": "Manpower Outsourcing Services - Minimum wage - Skilled; Not Required; Others",
+      "profile": "Office Peon",
+      "skill_category": "Skilled",
+      "educational_qualification": "Not Required",
+      "experience": "0 to 3 Years",
+      "quantity": 14,
+      "location": "226001,19 C ,TULSI GANGA COMPLEX ,VIDHAN SABHA MARG,LUCKNOW",
+      "wage_per_day": 522.3,
+      "esi_per_day": 16.96,
+      "pf_per_day": 67.88,
+      "working_days_per_month": 26,
+      "duration_months": 36
+    },
+    {
+      "category": "Manpower Outsourcing Services - Minimum wage - Unskilled; Not Required; Others",
+      "profile": "Office Peon",
+      "skill_category": "Unskilled",
+      "educational_qualification": "Not Required",
+      "experience": "0 to 3 Years",
+      "quantity": 9,
+      "location": "226001,19 C ,TULSI GANGA COMPLEX ,VIDHAN SABHA MARG,LUCKNOW",
+      "wage_per_day": 423.88,
+      "esi_per_day": 13.76,
+      "pf_per_day": 55.11,
+      "working_days_per_month": 26,
+      "duration_months": 36
+    },
+    {
+      "category": "Manpower Outsourcing Services - Minimum wage - Skilled; ITI; Others",
+      "profile": "Electrician",
+      "skill_category": "Skilled",
+      "educational_qualification": "ITI",
+      "experience": "0 to 3 Years",
+      "quantity": 1,
+      "location": "226001,19 C ,TULSI GANGA COMPLEX ,VIDHAN SABHA MARG,LUCKNOW",
+      "wage_per_day": 522.3,
+      "esi_per_day": 16.96,
+      "pf_per_day": 67.88,
+      "working_days_per_month": 26,
+      "duration_months": 36
+    }
+  ],
+  "raw_text_pages": [
+    {
+      "page": 1,
+      "text": "(cid:1)बड सं(cid:63)या/Bid Number: GEM/2025/B/6892639\n(cid:64)दनांक /Dated: 21-11-2025\n(cid:1)(cid:1)बबडड दद(cid:38)(cid:38)ततााववेज़ेज़ / Bid Document\n(cid:1)(cid:1)बबडड (cid:1)(cid:1)ववववररणण//Bid Details\n(cid:1)(cid:1)बबडड बबंदंद हहोोनने े कक(cid:16)(cid:16) तताारर(cid:19)(cid:19)खख//ससममयय /Bid End Date/Time 06-12-2025 16:00:00\n(cid:1)(cid:1)बबडड खखुलुलनने े कक(cid:16)(cid:16) तताारर(cid:19)(cid:19)खख//ससममयय /Bid Opening\n06-12-2025 16:30:00\nDate/Time\n(cid:1)(cid:1)बबडड पपेशेशककशश ववैधैधतताा ((बबंदंद हहोोनने े कक(cid:16)(cid:16) तताारर(cid:19)(cid:19)खख ससे)े)/Bid Offer\n90 (Days)\nValidity (From End Date)\nममं(cid:32)ं(cid:32)ााललयय//रराा(cid:33)(cid:33)यय ककाा ननाामम/Ministry/State Name Uttar Pradesh\n(cid:1)(cid:1)ववभभाागग ककाा ननाामम/Department Name Home Department Uttar Pradesh\nससंगंगठठनन ककाा ननाामम/Organisation Name Uttar Pradesh Police Recruitment And Promotion Board\nककााययााल(cid:37)ल(cid:37) यय ककाा ननाामम/Office Name Up Police Recruitment &promotion Board\nManpower Outsourcing Services - Minimum wage - Skilled;\nNot Required; Others , Manpower Outsourcing Services -\nवव(cid:38)(cid:38)ततु ु (cid:39)(cid:39)णेणे ीी /Item Category Minimum wage - Unskilled; Not Required; Others ,\nManpower Outsourcing Services - Minimum wage - Skilled;\nITI; Others\nअअननुबुबंधंध अअववििधध /Contract Period 3 Year(s) 1 Day(s)\n(cid:1)(cid:1)बबडडरर ककाा (cid:43)(cid:43)ययूनूनततमम औऔससतत ववाा(cid:1)(cid:1)षषक(cid:37)क(cid:37) टटननओ(cid:37)ओ(cid:37) ववरर ((33 ववषष(cid:50)(cid:50) ककाा))\n/Minimum Average Annual Turnover of the 45 Lakh (s)\nbidder (For 3 Years)\nउउ(cid:43)(cid:43)हह(cid:19)(cid:19)ं/ं/ससममाानन ससेवेवाा ककेे ििललएए अअपपे(cid:53)े(cid:53)(cid:54)(cid:54)तत (cid:1)(cid:1)ववगगतत अअननुभुभवव ककेे\nववषष/(cid:37)(cid:37)Years of Past Experience Required for 3 Year (s)\nsame/similar service\nइइससीी ततररहह कक(cid:16)(cid:16) ससेवेवााओओं ं ककाा (cid:1)(cid:1)पपछछललाा आआवव(cid:58)(cid:58)ययकक अअननुभुभवव हहैै/Past\nYes\nExperience of Similar Services required\nएएममएएससएएममईई ककेे ििललएए अअननुभुभवव ककेे ववषष(cid:50)(cid:50) औऔरर टटननओ(cid:37)ओ(cid:37) ववरर ससेे छछूूटट (cid:60)(cid:60)ददाानन\nकक(cid:16)(cid:16) गगईई हहैै/MSE Exemption for Years of No\nExperience and Turnover\n(cid:38)(cid:38)टटााटट(cid:37)(cid:37)अअपप ककेे ििललएए अअननुभुभवव ककेे ववषष(cid:50)(cid:50) औऔरर टटननओ(cid:37)ओ(cid:37) ववरर ससेे छछूूटट (cid:60)(cid:60)ददाानन\nकक(cid:16)(cid:16) गगईई हहैै /Startup Exemption for Years of No\nExperience and Turnover\nExperience Criteria,Bidder Turnover,Certificate (Requested\nin ATC),Additional Doc 1 (Requested in ATC)\n(cid:1)(cid:1)वव(cid:61)(cid:61)ेेतताा ससे े ममाांगंगे े गगएए दद(cid:38)(cid:38)ततााववेज़ेज़/Document required *In case any bidder is seeking exemption from Experience /\nfrom seller Turnover Criteria, the supporting documents to prove his\neligibility for exemption must be uploaded for evaluation by\nthe buyer\n1 / 12"
+    },
+    {
+      "page": 2,
+      "text": "(cid:1)(cid:1)बबडड (cid:1)(cid:1)ववववररणण//Bid Details\n(cid:71)(cid:71)ययाा आआपप ििनन(cid:1)(cid:1)ववददााककाारर(cid:72)(cid:72) (cid:73)(cid:73)ाारराा अअपपललोोडड (cid:64)(cid:64)ककएए गगएए दद(cid:38)(cid:38)ततााववेज़ेज़(cid:72)(cid:72) ककोो\nििनन(cid:1)(cid:1)ववददाा मम(cid:74) (cid:74) भभाागग ललेनेने े ववाालले े ससभभीी ििनन(cid:1)(cid:1)ववददााककाारर(cid:72)(cid:72) ककोो (cid:64)(cid:64)ददखखााननाा\nNo\nचचााहहतते े हह(cid:76)(cid:76)?? ससंदंदभभ (cid:37) (cid:37) ममेनेनू ू हहैै/Do you want to show\ndocuments uploaded by bidders to all\nbidders participated in bid?\n(cid:1)(cid:1)बबडड ललगगाानने े कक(cid:16)(cid:16) ससममयय ससीीममाा (cid:38)(cid:38)ववततःः ननहह(cid:19)(cid:19)ं ं बबढ़ढ़ाानने े ककेे ििललएए\nआआवव(cid:58)(cid:58)ययकक (cid:1)(cid:1)बबडड कक(cid:16)(cid:16) ससं(cid:63)ं(cid:63)ययाा।। / Minimum number of 3\nbids required to disable automatic bid\nextension\n(cid:64)(cid:64)ददनन(cid:72)(cid:72) कक(cid:16)(cid:16) ससं(cid:63)ं(cid:63)ययाा,, (cid:53)(cid:53)जजननककेे ििललएए (cid:1)(cid:1)बबडड ललगगाानने े कक(cid:16)(cid:16) ससममयय--ससीीममाा\nबबढ़ढ़ााईई जजााएएगगीी।। // Number of days for which Bid 3\nwould be auto--extended\nऑऑटटोो एए(cid:71)(cid:71)ससटट(cid:74)(cid:74)शशनन अअििधधककततमम (cid:64)(cid:64)ककततननीी बबाारर (cid:64)(cid:64)ककययाा जजााननाा हहैै।। //\n2\nNumber of Auto Extension count\n(cid:1)(cid:1)बबडड ससे े (cid:84)(cid:84)ररववसस (cid:37) (cid:37) ननीीललााममीी सस(cid:64)(cid:64)(cid:61)(cid:61)यय (cid:64)(cid:64)ककययाा/Bid to RA enabled Yes\n(cid:84)(cid:84)ररववसस(cid:37) (cid:37)ननीीललााममीी ययोो(cid:85)(cid:85)ययतताा ििननययमम/RA Qualification Rule 50% Lowest Priced Technically Qualified Bidders\n(cid:1)(cid:1)बबडड ककाा (cid:60)(cid:60)ककाारर/Type of Bid Two Packet Bid\nततककननीीकक(cid:16)(cid:16) ममू(cid:86)ू(cid:86)ययाांकंकनन ककेे ददौौरराानन ततककननीीकक(cid:16)(cid:16) (cid:38)(cid:38)पप(cid:88)(cid:88)ीीककररणण हहेेततुु\nअअननुमुमतत ससममयय /Time allowed for Technical 3 Days\nClarifications during technical evaluation\nममू(cid:86)ू(cid:86)ययाांकंकनन पप(cid:89)(cid:89)िितत/Evaluation Method Total value wise evaluation\nममू(cid:86)ू(cid:86)यय ददशशाान(cid:37)न(cid:37) े े ववााललाा (cid:1)(cid:1)वव(cid:90)(cid:90)ीीयय दद(cid:38)(cid:38)ततााववेजेज (cid:91)(cid:91)ेकेकअअपप आआवव(cid:58)(cid:58)ययकक हहैै /\nFinancial Document Indicating Price Yes\nBreakup Required\nमम(cid:92)(cid:92)यय(cid:38)(cid:38)थथतताा खखंडंड/Arbitration Clause No\nससुलुलहह खखंडंड/Mediation Clause No\nईईएएममडड(cid:19)(cid:19) (cid:1)(cid:1)ववववररणण/EMD Detail\nएडवाईजर(cid:19) ब(cid:76)क/Advisory Bank State Bank of India\nईएमड(cid:19) रािश/EMD Amount 155330\nईईपपीीबबीीजजीी (cid:1)(cid:1)ववववररणण /ePBG Detail\nएडवाइजर(cid:19) ब(cid:76)क/Advisory Bank State Bank of India\nईपीबीजी (cid:60)ितशत (%)/ePBG Percentage(%) 5.00\nईपीबीजी क(cid:16) आव(cid:58)यक अविध (माह) /Duration of ePBG\n38\nrequired (Months).\n2 / 12"
+    },
+    {
+      "page": 3,
+      "text": "(a). जेम क(cid:16) शत(cid:50) के अनुसार ईएमड(cid:19) छूट के इ(cid:95)छुक (cid:1)बडर को संबंिधत केटेगर(cid:19) के िलए (cid:1)बड के साथ वैध समिथत(cid:37) द(cid:38)तावेज़ (cid:60)(cid:38)तुत करने है। एमएसई\nकेटेगर(cid:19) के अतं गत(cid:37) केवल व(cid:38)तुओं के िलए (cid:1)विनमात(cid:37) ा तथा सेवाओं के िलए सेवा (cid:60)दाता ईएमड(cid:19) से छूट के पा(cid:32) ह(cid:76)। (cid:96)यापा(cid:84)रय(cid:72) को इस नीित के दायरे से\nबाहर रखा गया है।/EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document\nfor the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and\nService Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this\nPolicy.\n(b).ईएमड(cid:19) और संपादन जमानत रािश, जहां यह लागू होती है, लाभाथ(cid:97) के प(cid:54) म(cid:74) होनी चा(cid:64)हए। / EMD & Performance securityshould be\nin favour of Beneficiary, wherever it is applicable.\nललााभभााथथ(cid:97)(cid:97) /Beneficiary :\nSP HQ\nUp Police Recruitment &promotion Board, Home Department Uttar Pradesh, Uttar Pradesh Police Recruitment\nAnd Promotion Board,\n(Ashok Kumar)\nबोली (cid:1)वभाजन लागू नह(cid:19)ं (cid:64)कया गया/ Bid splitting not applied.\nएएममआआईईआआईई अअननुपुपााललनन/MII Compliance\nएमआईआई अनुपालन/MII Compliance Yes\nएएममएएससईई खखरर(cid:19)(cid:19)दद ववरर(cid:19)(cid:19)ययतताा/MSE Purchase Preference\nएमएसई खर(cid:19)द वर(cid:19)यता/MSE Purchase Preference No\n1. The minimum average annual financial turnover of the bidder during the last three years, ending on 31st\nMarch of the previous financial year, should be as indicated above in the bid document. Documentary evidence in\nthe form of certified Audited Balance Sheets of relevant periods or a certificate from the Chartered Accountant /\nCost Accountant indicating the turnover details for the relevant period shall be uploaded with the bid. In case the\ndate of constitution / incorporation of the bidder is less than 3-year-old, the average turnover in respect of the\ncompleted financial years after the date of constitution shall be taken into account for this criteria.\n2. Years of Past Experience required: The bidder must have experience for number of years as indicated above in\nbid document (ending month of March prior to the bid opening) of providing similar type of services to any\nCentral / State Govt Organization / PSU. Copies of relevant contracts / orders to be uploaded along with bid in\nsupport of having provided services during each of the Financial year.\n3. Past Experience of Similar Services: The bidder must have successfully executed/completed similar Services\nover the last three years i.e. the current financial year and the last three financial years(ending month of March\nprior to the bid opening): -\n1. Three similar completed services costing not less than the amount equal to 40% (forty percent) of the\nestimated cost; or\n2. Two similar completed services costing not less than the amount equal to 50% (fifty percent) of the estimated\ncost; or\n3. One similar completed service costing not less than the amount equal to 80% (eighty percent) of the estimated\ncost.\n4. Reverse Auction would be conducted amongst first 50% of the technically qualified bidders arranged in the\norder of prices from lowest to highest. Number of sellers eligible for participating in RA would be rounded off to\nnext higher integer value if number of technically qualified bidders is odd (e.g. if 7 bids are technically qualified,\nthen RA will be conducted amongst L-1 to L-4). In case number of technically qualified bidders are 2 or 3, RA will\nbe between all without any elimination. If Buyer has chosen to split the bid amongst N sellers, then minimum N\nsellers would be taken to RA round. In case Primary products of only one OEM are left in contention for\nparticipation in RA based on lowest 50% bidders qualifying for RA, the number of sellers qualifying for RA would\nbe increased to get at least products of one more OEM (directly participated or through its reseller) if available.\nFurther, if bid(s) of any seller(s) eligible for MSE preference is / are coming within price band of 15% of Non MSE\nL-1 or if bid of any seller(s) eligible for Make in India preference is / are coming within price band of 20% of non\n3 / 12"
+    },
+    {
+      "page": 4,
+      "text": "MII L-1, then such MSE / Make in India seller shall also be allowed to participate in the RA process.\nअअिितत(cid:84)(cid:84)रर(cid:98)(cid:98) ययोो(cid:85)(cid:85)ययतताा //आआवव(cid:58)(cid:58)ययकक डडेेटटाा/Additional Qualification/Data Required\nScope of work & Job description:1763709860.pdf\nIn case, the buyer wants to retain some of the existing resources then buyer is needed to upload the\nlist of resources along with the quantity of each type or resource to be continued by the successful\nbidder/service provider under the new contract as per the T&C of new contract concluded on the\nbasis of this bid along with approval of Competent Authority.:1763709881.pdf\nBuyer to upload Gazette notification for the breakup of ESI/EPF/ELDI etc if required:1763709884.pdf\nBuyer to upload undertaking that Minimum Wages indicated by him during Bid Creation are as per\napplicable Minimum Wages Act:1763709887.pdf\nManpower Outsourcing Services - Minimum Wage - Skilled; Not Required; Others ( 14 )\nततककननीीकक(cid:16)(cid:16) (cid:1)(cid:1)ववििशश(cid:1)(cid:1)(cid:88)(cid:88)ययााँ ँ /Technical Specifications\n(cid:1)(cid:1)ववववररणण/ Specification ममू(cid:86)ू(cid:86)यय/ Values\nककोोरर / Core\nSkill Category Skilled\nEducational Qualification Not Required\nType of Function Others\nList of Profiles Office Peon\nSpecialization Not Required\nPost Graduation Not Required\nSpecialization for PG Not Applicable\nExperience 0 to 3 Years\nState NA\nZipcode NA\nDistrict NA\nIs the Geographical presence of the Service Provider's office required in the consignee's State Yes\nName of states/ UT for geographical presence is required Uttar Pradesh\nएएडडऑऑनन /Addon(s)\nअअिितत(cid:84)(cid:84)रर(cid:98)(cid:98) (cid:1)(cid:1)ववववररणण /Additional Details\nTitle for Optional Allowances 1 0\nTitle for Optional Allowances 2 0\nTitle for Optional Allowances 3 0\nDesignation 0\n(cid:61)(cid:61)ेेतताा (cid:73)(cid:73)ाारराा ििननधधाा(cid:84)(cid:37)(cid:84)(cid:37)ररतत (cid:43)(cid:43)ययूनूनततमम ममू(cid:86)ू(cid:86)यय/Minimum Floor Price defined by Buyer\n4 / 12"
+    },
+    {
+      "page": 5,
+      "text": "(cid:61)ेता (cid:73)ारा िनधा(cid:84)(cid:37)रत (cid:43)यूनतम मू(cid:86)य/Minimum Floor Price\nNo\ndefined by Buyer\nअअिितत(cid:84)(cid:84)रर(cid:98)(cid:98) (cid:1)(cid:1)ववििशश(cid:1)(cid:1)(cid:88)(cid:88) दद(cid:38)(cid:38)ततााववेज़ेज़ /Additional Specification Documents\nपपररेे(cid:1)(cid:1)षषततीी//(cid:84)(cid:84)ररपपोो(cid:64)(cid:64)टट(cid:100)(cid:100)गग अअििधधककाारर(cid:19)(cid:19) /Consignees/Reporting Officer and Quantity\nपपररेे(cid:1)(cid:1)षषततीी//(cid:84)(cid:84)ररपपोो(cid:64)(cid:64)टट(cid:100)(cid:100)गग ससंसंसााधधनन(cid:72)(cid:72) कक(cid:16)(cid:16) ममाा(cid:32)(cid:32)ाा अअिितत(cid:84)(cid:84)रर(cid:98)(cid:98) आआवव(cid:58)(cid:58)ययककतताा\n(cid:61)(cid:61)..ससं.ं./S.N / Number of\no. अअििधधककाारर(cid:19)(cid:19) /Consignee पपतताा/Address Resources to R / e A q d u d i i r t e io m n e a n l t\nReporting/Officer be hired\nMinimum daily\nwage (INR)\nexclusive of GST :\n522.3\nBonus (INR per\nday) : 0\nEDLI (INR per day)\n: 0\nEPF Admin Charge\n(INR per day) : 0\nOptional\nAllowances 1 (INR\nper day) : 0\nOptional\nAllowances 2 (INR\nper day) : 0\nOptional\nAllowances 3 (INR\nper day) : 0\n226001,19 C ,TULSI GANGA Estimated Number\n1 Brajendra Bhardwaj COMPLEX ,VIDHAN SABHA 14 of Overtime Hours\nMARG,LUCKNOW per Resource per\nMonth : 0\nRemuneration per\nresource per hour\nfor Overtime Hours\n(Including all\napplicable\nallowance etc &\nexcluding GST) : 0\nESI (INR per day) :\n16.96\nProvident Fund\n(INR per day) :\n67.88\nNumber of working\ndays in a month :\n26\nTenure/ Duration of\nEmployment (in\nmonths) : 36\nManpower Outsourcing Services - Minimum Wage - Unskilled; Not Required; Others ( 9\n)\n5 / 12"
+    },
+    {
+      "page": 6,
+      "text": "ततककननीीकक(cid:16)(cid:16) (cid:1)(cid:1)ववििशश(cid:1)(cid:1)(cid:88)(cid:88)ययााँ ँ /Technical Specifications\n(cid:1)(cid:1)ववववररणण/ Specification ममू(cid:86)ू(cid:86)यय/ Values\nककोोरर / Core\nSkill Category Unskilled\nEducational Qualification Not Required\nType of Function Others\nList of Profiles Office Peon\nSpecialization Not Required\nPost Graduation Not Required\nSpecialization for PG Not Applicable\nExperience 0 to 3 Years\nState NA\nZipcode NA\nDistrict NA\nIs the Geographical presence of the Service Provider's office required in the consignee's State Yes\nName of states/ UT for geographical presence is required Uttar Pradesh\nएएडडऑऑनन /Addon(s)\nअअिितत(cid:84)(cid:84)रर(cid:98)(cid:98) (cid:1)(cid:1)ववववररणण /Additional Details\nTitle for Optional Allowances 1 0\nTitle for Optional Allowances 2 0\nTitle for Optional Allowances 3 0\nDesignation 0\n(cid:61)(cid:61)ेेतताा (cid:73)(cid:73)ाारराा ििननधधाा(cid:84)(cid:37)(cid:84)(cid:37)ररतत (cid:43)(cid:43)ययूनूनततमम ममू(cid:86)ू(cid:86)यय/Minimum Floor Price defined by Buyer\n(cid:61)ेता (cid:73)ारा िनधा(cid:84)(cid:37)रत (cid:43)यूनतम मू(cid:86)य/Minimum Floor Price\nNo\ndefined by Buyer\nअअिितत(cid:84)(cid:84)रर(cid:98)(cid:98) (cid:1)(cid:1)ववििशश(cid:1)(cid:1)(cid:88)(cid:88) दद(cid:38)(cid:38)ततााववेज़ेज़ /Additional Specification Documents\nपपररेे(cid:1)(cid:1)षषततीी//(cid:84)(cid:84)ररपपोो(cid:64)(cid:64)टट(cid:100)(cid:100)गग अअििधधककाारर(cid:19)(cid:19) /Consignees/Reporting Officer and Quantity\n6 / 12"
+    },
+    {
+      "page": 7,
+      "text": "पपररेे(cid:1)(cid:1)षषततीी//(cid:84)(cid:84)ररपपोो(cid:64)(cid:64)टट(cid:100)(cid:100)गग ससंसंसााधधनन(cid:72)(cid:72) कक(cid:16)(cid:16) ममाा(cid:32)(cid:32)ाा अअिितत(cid:84)(cid:84)रर(cid:98)(cid:98) आआवव(cid:58)(cid:58)ययककतताा\n(cid:61)(cid:61)..ससं.ं./S.N / Number of\no. अअििधधककाारर(cid:19)(cid:19) /Consignee पपतताा/Address Resources to R / e A q d u d i i r t e io m n e a n l t\nReporting/Officer be hired\nMinimum daily\nwage (INR)\nexclusive of GST :\n423.88\nBonus (INR per\nday) : 0\nEDLI (INR per day)\n: 0\nEPF Admin Charge\n(INR per day) : 0\nOptional\nAllowances 1 (INR\nper day) : 0\nOptional\nAllowances 2 (INR\nper day) : 0\nOptional\nAllowances 3 (INR\nper day) : 0\n226001,19 C ,TULSI GANGA Estimated Number\n1 Brajendra Bhardwaj COMPLEX ,VIDHAN SABHA 9 of Overtime Hours\nMARG,LUCKNOW per Resource per\nMonth : 00\nRemuneration per\nresource per hour\nfor Overtime Hours\n(Including all\napplicable\nallowance etc &\nexcluding GST) : 0\nESI (INR per day) :\n13.76\nProvident Fund\n(INR per day) :\n55.11\nNumber of working\ndays in a month :\n26\nTenure/ Duration of\nEmployment (in\nmonths) : 36\nManpower Outsourcing Services - Minimum Wage - Skilled; ITI; Others ( 1 )\nततककननीीकक(cid:16)(cid:16) (cid:1)(cid:1)ववििशश(cid:1)(cid:1)(cid:88)(cid:88)ययााँ ँ /Technical Specifications\n(cid:1)(cid:1)ववववररणण/ Specification ममू(cid:86)ू(cid:86)यय/ Values\nककोोरर / Core\nSkill Category Skilled\nEducational Qualification ITI\nType of Function Others\n7 / 12"
+    },
+    {
+      "page": 8,
+      "text": "(cid:1)(cid:1)ववववररणण/ Specification ममू(cid:86)ू(cid:86)यय/ Values\nList of Profiles Electrician\nSpecialization Not Required\nPost Graduation Not Required\nSpecialization for PG Not Applicable\nExperience 0 to 3 Years\nState NA\nZipcode NA\nDistrict NA\nIs the Geographical presence of the Service Provider's office required in the consignee's State Yes\nName of states/ UT for geographical presence is required Uttar Pradesh\nएएडडऑऑनन /Addon(s)\nअअिितत(cid:84)(cid:84)रर(cid:98)(cid:98) (cid:1)(cid:1)ववववररणण /Additional Details\nTitle for Optional Allowances 1 0\nTitle for Optional Allowances 2 0\nTitle for Optional Allowances 3 0\nDesignation 0\n(cid:61)(cid:61)ेेतताा (cid:73)(cid:73)ाारराा ििननधधाा(cid:84)(cid:37)(cid:84)(cid:37)ररतत (cid:43)(cid:43)ययूनूनततमम ममू(cid:86)ू(cid:86)यय/Minimum Floor Price defined by Buyer\n(cid:61)ेता (cid:73)ारा िनधा(cid:84)(cid:37)रत (cid:43)यूनतम मू(cid:86)य/Minimum Floor Price\nNo\ndefined by Buyer\nअअिितत(cid:84)(cid:84)रर(cid:98)(cid:98) (cid:1)(cid:1)ववििशश(cid:1)(cid:1)(cid:88)(cid:88) दद(cid:38)(cid:38)ततााववेज़ेज़ /Additional Specification Documents\nपपररेे(cid:1)(cid:1)षषततीी//(cid:84)(cid:84)ररपपोो(cid:64)(cid:64)टट(cid:100)(cid:100)गग अअििधधककाारर(cid:19)(cid:19) /Consignees/Reporting Officer and Quantity\nपपररेे(cid:1)(cid:1)षषततीी//(cid:84)(cid:84)ररपपोो(cid:64)(cid:64)टट(cid:100)(cid:100)गग ससंसंसााधधनन(cid:72)(cid:72) कक(cid:16)(cid:16) ममाा(cid:32)(cid:32)ाा अअिितत(cid:84)(cid:84)रर(cid:98)(cid:98) आआवव(cid:58)(cid:58)ययककतताा\n(cid:61)(cid:61)..ससं.ं./S.N / Number of\no. अअििधधककाारर(cid:19)(cid:19) /Consignee पपतताा/Address Resources to R / e A q d u d i i r t e io m n e a n l t\nReporting/Officer be hired\n8 / 12"
+    },
+    {
+      "page": 9,
+      "text": "पपररेे(cid:1)(cid:1)षषततीी//(cid:84)(cid:84)ररपपोो(cid:64)(cid:64)टट(cid:100)(cid:100)गग ससंसंसााधधनन(cid:72)(cid:72) कक(cid:16)(cid:16) ममाा(cid:32)(cid:32)ाा अअिितत(cid:84)(cid:84)रर(cid:98)(cid:98) आआवव(cid:58)(cid:58)ययककतताा\n(cid:61)(cid:61)..ससं.ं./S.N / Number of\no. अअििधधककाारर(cid:19)(cid:19) /Consignee पपतताा/Address Resources to R / e A q d u d i i r t e io m n e a n l t\nReporting/Officer be hired\nMinimum daily\nwage (INR)\nexclusive of GST :\n522.3\nBonus (INR per\nday) : 0\nEDLI (INR per day)\n: 0\nEPF Admin Charge\n(INR per day) : 0\nOptional\nAllowances 1 (INR\nper day) : 0\nOptional\nAllowances 2 (INR\nper day) : 0\nOptional\nAllowances 3 (INR\nper day) : 0\n226001,19 C ,TULSI GANGA Estimated Number\n1 Brajendra Bhardwaj COMPLEX ,VIDHAN SABHA 1 of Overtime Hours\nMARG,LUCKNOW per Resource per\nMonth : 0\nRemuneration per\nresource per hour\nfor Overtime Hours\n(Including all\napplicable\nallowance etc &\nexcluding GST) : 0\nESI (INR per day) :\n16.96\nProvident Fund\n(INR per day) :\n67.88\nNumber of working\ndays in a month :\n26\nTenure/ Duration of\nEmployment (in\nmonths) : 36\n/Buyer Added Bid Specific Terms and Conditions\n(cid:61)(cid:61)ेेतताा (cid:73)(cid:73)ाारराा जजोोड़ड़(cid:19)(cid:19) गगईई (cid:1)(cid:1)बबडड कक(cid:16)(cid:16) (cid:1)(cid:1)ववशशेषेष शशतत(cid:103)(cid:103)\n1. Generic\nOPTION CLAUSE: The buyer can increase or decrease the contract quantity or contract duration up to 25\npercent at the time of issue of the contract. However, once the contract is issued, contract quantity or\ncontract duration can only be increased up to 25 percent. Bidders are bound to accept the revised\nquantity or duration\n2. Generic\nOption Clause: Excess Settlement. The excess settlement has been enabled for the service, allowing\n9 / 12"
+    },
+    {
+      "page": 10,
+      "text": "service providers to include additional charges up to a specified percentage of the item-level total value,\nincluding addons, in their invoices. Service providers must declare the applicability of additional charges\nduring invoice creation and submit mandatory supporting documents to avail this option. The total invoice\namount, including additional charges, shall not exceed the agreed-upon excess settlement percentage for\nthe order.\n3. Service & Support\nAVAILABILITY OF OFFICE OF SERVICE PROVIDER: An office of the Service Provider must be located in the\nstate of Consignee. DOCUMENTARY EVIDENCE TO BE SUBMITTED.\n4. Forms of EMD and PBG\nBidders can also submit the EMD with Account Payee Demand Draft in favour of\nSP HQ UPPRPB\npayable at\nLUCKNOW\n.\nBidder has to upload scanned copy / proof of the DD along with bid and has to ensure delivery of hardcopy\nto the Buyer within 5 days of Bid End date / Bid Opening date.\n5. Generic\n1. The Seller shall not assign the Contract in whole or part without obtaining the prior written consent of\nbuyer.\n2. The Seller shall not sub-contract the Contract in whole or part to any entity without obtaining the prior\nwritten consent of buyer.\n3. The Seller shall, notwithstanding the consent and assignment/sub-contract, remain jointly and severally\nliable and responsible to buyer together with the assignee/ sub-contractor, for and in respect of the due\nperformance of the Contract and the Sellers obligations there under.\n6. Buyer Added Bid Specific ATC\nBuyer uploaded ATC document Click here to view the file.\n7. Past Project Experience\nProof for Past Experience and Project Experience clause: For fulfilling the experience criteria any\none of the following documents may be considered as valid proof for meeting the experience criteria:a.\nContract copy along with Invoice(s) with self-certification by the bidder that service/supplies against the\ninvoices have been executed.b. Execution certificate by client with contract value.c. Any other document\nin support of contract execution like Third Party Inspection release note, etc.Proof for Past Experience and\nProject Experience clause: For fulfilling the experience criteria any one of the following documents may be\nconsidered as valid proof for meeting the experience criteria:a. Contract copy along with Invoice(s) with\nself-certification by the bidder that service/supplies against the invoices have been executed.b. Execution\ncertificate by client with contract value.c. Any other document in support of contract execution like Third\nParty Inspection release note, etc.\n8. Buyer Added Bid Specific SLA\nFile Attachment Click here to view the file.\n/Disclaimer\nअअ(cid:38)(cid:38)ववीीककररणण\nThe additional terms and conditions have been incorporated by the Buyer after approval of the Competent\nAuthority in Buyer Organization, whereby Buyer organization is solely responsible for the impact of these clauses\non the bidding process, its outcome, and consequences thereof including any eccentricity / restriction arising in\nthe bidding process due to these ATCs and due to modification of technical specifications and / or terms and\nconditions governing the bid. If any clause(s) is / are incorporated by the Buyer regarding following, the bid and\nresultant contracts shall be treated as null and void and such bids may be cancelled by GeM at any stage of\nbidding process without any notice:-\n10 / 12"
+    },
+    {
+      "page": 11,
+      "text": "1. Definition of Class I and Class II suppliers in the bid not in line with the extant Order / Office Memorandum\nissued by DPIIT in this regard.\n2. Seeking EMD submission from bidder(s), including via Additional Terms & Conditions, in contravention to\nexemption provided to such sellers under GeM GTC.\n3. Publishing Custom / BOQ bids for items for which regular GeM categories are available without any\nCategory item bunched with it.\n4. Creating BoQ bid for single item.\n5. Mentioning specific Brand or Make or Model or Manufacturer or Dealer name.\n6. Mandating submission of documents in physical form as a pre-requisite to qualify bidders.\n7. Floating / creation of work contracts as Custom Bids in Services.\n8. Seeking sample with bid or approval of samples during bid evaluation process. (However, in bids for\nattached categories, trials are allowed as per approved procurement policy of the buyer nodal Ministries)\n9. Mandating foreign / international certifications even in case of existence of Indian Standards without\nspecifying equivalent Indian Certification / standards.\n10. Seeking experience from specific organization / department / institute only or from foreign / export\nexperience.\n11. Creating bid for items from irrelevant categories.\n12. Incorporating any clause against the MSME policy and Preference to Make in India Policy.\n13. Reference of conditions published on any external site or reference to external documents/clauses.\n14. Asking for any Tender fee / Bid Participation fee / Auction fee in case of Bids / Forward Auction, as the\ncase may be.\n15. Any ATC clause in contravention with GeM GTC Clause 4 (xiii)(h) will be invalid. In case of multiple L1\nbidders against a service bid, the buyer shall place the Contract by selection of a bidder amongst the L-1\nbidders through a Random Algorithm executed by GeM system.\n16. Buyer added ATC Clauses which are in contravention of clauses defined by buyer in system generated bid\ntemplate as indicated above in the Bid Details section, EMD Detail, ePBG Detail and MII and MSE Purchase\nPreference sections of the bid, unless otherwise allowed by GeM GTC.\n17. In a category based bid, adding additional items, through buyer added additional scope of work/ additional\nterms and conditions/or any other document. If buyer needs more items along with the main item, the\nsame must be added through bunching category based items or by bunching custom catalogs or\nbunching a BoQ with the main category based item, the same must not be done through ATC or Scope of\nWork.\nFurther, if any seller has any objection/grievance against these additional clauses or otherwise on any aspect of\nthis bid, they can raise their representation against the same by using the Representation window provided in\nthe bid details field in Seller dashboard after logging in as a seller within 4 days of bid publication on GeM. Buyer\nis duty bound to reply to all such representations and would not be allowed to open bids if he fails to reply to\nsuch representations.\nAll GeM Sellers / Service Providers are mandated to ensure compliance with all the applicable laws /\nacts / rules including but not limited to all Labour Laws such as The Minimum Wages Act, 1948, The\nPayment of Wages Act, 1936, The Payment of Bonus Act, 1965, The Equal Remuneration Act, 1976,\nThe Payment of Gratuity Act, 1972 etc. Any non-compliance will be treated as breach of contract\nand Buyer may take suitable actions as per GeM Contract.\nThis Bid is governed by the सामा(cid:43)य िनयम और शत(cid:103)/General Terms and Conditions, conditons stipulated in Bid and\nService Level Agreement specific to this Service as provided in the Marketplace. However in case if any condition\nspecified in सामा(cid:43)य िनयम और शत(cid:103)/General Terms and Conditions is contradicted by the conditions stipulated in\nService Level Agreement, then it will over ride the conditions in the General Terms and Conditions.\nजेम क(cid:16) सामा(cid:43)य शत(cid:50) के खंड 26 के संदभ (cid:37) म(cid:74) भारत के साथ भूिम सीमा साझा करने वाले देश के (cid:1)बडर से खर(cid:19)द पर (cid:60)ितबंध के संबंध म(cid:74)\nभारत के साथ भूिम सीमा साझा करने वाले देश का कोई भी (cid:1)बडर इस िन(cid:1)वदा म(cid:74) (cid:1)बड देने के िलए तभी पा(cid:32) होगा जब वह (cid:1)बड देने वाला\nस(cid:54)म (cid:60)ािधकार(cid:19) के पास पंजीकृत हो।(cid:1)बड म(cid:74) भाग लेते समय (cid:1)बडर को इसका अनुपालन करना होगा और कोई भी गलत घोषणा (cid:64)कए जाने\nव इसका अनुपालन न करने पर अनुबंध को त(cid:108)काल समा(cid:109) करने और कानून के अनुसार आगे क(cid:16) कानूनी कार(cid:37)वाई का आधार होगा।/In terms\nof GeM GTC clause 26 regarding Restrictions on procurement from a bidder of a country which shares a land border with India, any bidder from a country which shares a\nland border with India will be eligible to bid in this tender only if the bidder is registered with the Competent Authority. While participating in bid, Bidder has to undertake\n11 / 12"
+    },
+    {
+      "page": 12,
+      "text": "compliance of this and any false declaration and non-compliance of this would be a ground for immediate termination of the contract and further legal action in\naccordance with the laws.\n---धध(cid:43)(cid:43)ययववाादद/Thank You---\n12 / 12"
+    }
+  ],
+  "raw_tables": [
+    {
+      "page": 1,
+      "rows": [
+        {
+          "(cid:1)(cid:1)बबडड (cid:1)(cid:1)ववववररणण//Bid Details": "(cid:1)(cid:1)बबडड बबंदंद हहोोनने े कक(cid:16)(cid:16) तताारर(cid:19)(cid:19)खख//ससममयय /Bid End Date/Time",
+          "col_1": "06-12-2025 16:00:00"
+        },
+        {
+          "(cid:1)(cid:1)बबडड (cid:1)(cid:1)ववववररणण//Bid Details": "(cid:1)(cid:1)बबडड खखुलुलनने े कक(cid:16)(cid:16) तताारर(cid:19)(cid:19)खख//ससममयय /Bid Opening\nDate/Time",
+          "col_1": "06-12-2025 16:30:00"
+        },
+        {
+          "(cid:1)(cid:1)बबडड (cid:1)(cid:1)ववववररणण//Bid Details": "(cid:1)(cid:1)बबडड पपेशेशककशश ववैधैधतताा ((बबंदंद हहोोनने े कक(cid:16)(cid:16) तताारर(cid:19)(cid:19)खख ससे)े)/Bid Offer\nValidity (From End Date)",
+          "col_1": "90 (Days)"
+        },
+        {
+          "(cid:1)(cid:1)बबडड (cid:1)(cid:1)ववववररणण//Bid Details": "ममं(cid:32)ं(cid:32)ााललयय//रराा(cid:33)(cid:33)यय ककाा ननाामम/Ministry/State Name",
+          "col_1": "Uttar Pradesh"
+        },
+        {
+          "(cid:1)(cid:1)बबडड (cid:1)(cid:1)ववववररणण//Bid Details": "(cid:1)(cid:1)ववभभाागग ककाा ननाामम/Department Name",
+          "col_1": "Home Department Uttar Pradesh"
+        },
+        {
+          "(cid:1)(cid:1)बबडड (cid:1)(cid:1)ववववररणण//Bid Details": "ससंगंगठठनन ककाा ननाामम/Organisation Name",
+          "col_1": "Uttar Pradesh Police Recruitment And Promotion Board"
+        },
+        {
+          "(cid:1)(cid:1)बबडड (cid:1)(cid:1)ववववररणण//Bid Details": "ककााययााल(cid:37)ल(cid:37) यय ककाा ननाामम/Office Name",
+          "col_1": "Up Police Recruitment &promotion Board"
+        },
+        {
+          "(cid:1)(cid:1)बबडड (cid:1)(cid:1)ववववररणण//Bid Details": "वव(cid:38)(cid:38)ततु ु (cid:39)(cid:39)णेणे ीी /Item Category",
+          "col_1": "Manpower Outsourcing Services - Minimum wage - Skilled;\nNot Required; Others , Manpower Outsourcing Services -\nMinimum wage - Unskilled; Not Required; Others ,\nManpower Outsourcing Services - Minimum wage - Skilled;\nITI; Others"
+        },
+        {
+          "(cid:1)(cid:1)बबडड (cid:1)(cid:1)ववववररणण//Bid Details": "अअननुबुबंधंध अअववििधध /Contract Period",
+          "col_1": "3 Year(s) 1 Day(s)"
+        },
+        {
+          "(cid:1)(cid:1)बबडड (cid:1)(cid:1)ववववररणण//Bid Details": "(cid:1)(cid:1)बबडडरर ककाा (cid:43)(cid:43)ययूनूनततमम औऔससतत ववाा(cid:1)(cid:1)षषक(cid:37)क(cid:37) टटननओ(cid:37)ओ(cid:37) ववरर ((33 ववषष(cid:50)(cid:50) ककाा))\n/Minimum Average Annual Turnover of the\nbidder (For 3 Years)",
+          "col_1": "45 Lakh (s)"
+        },
+        {
+          "(cid:1)(cid:1)बबडड (cid:1)(cid:1)ववववररणण//Bid Details": "उउ(cid:43)(cid:43)हह(cid:19)(cid:19)ं/ं/ससममाानन ससेवेवाा ककेे ििललएए अअपपे(cid:53)े(cid:53)(cid:54)(cid:54)तत (cid:1)(cid:1)ववगगतत अअननुभुभवव ककेे\nववषष/(cid:37)(cid:37)Years of Past Experience Required for\nsame/similar service",
+          "col_1": "3 Year (s)"
+        },
+        {
+          "(cid:1)(cid:1)बबडड (cid:1)(cid:1)ववववररणण//Bid Details": "इइससीी ततररहह कक(cid:16)(cid:16) ससेवेवााओओं ं ककाा (cid:1)(cid:1)पपछछललाा आआवव(cid:58)(cid:58)ययकक अअननुभुभवव हहैै/Past\nExperience of Similar Services required",
+          "col_1": "Yes"
+        },
+        {
+          "(cid:1)(cid:1)बबडड (cid:1)(cid:1)ववववररणण//Bid Details": "एएममएएससएएममईई ककेे ििललएए अअननुभुभवव ककेे ववषष(cid:50)(cid:50) औऔरर टटननओ(cid:37)ओ(cid:37) ववरर ससेे छछूूटट (cid:60)(cid:60)ददाानन\nकक(cid:16)(cid:16) गगईई हहैै/MSE Exemption for Years of\nExperience and Turnover",
+          "col_1": "No"
+        },
+        {
+          "(cid:1)(cid:1)बबडड (cid:1)(cid:1)ववववररणण//Bid Details": "(cid:38)(cid:38)टटााटट(cid:37)(cid:37)अअपप ककेे ििललएए अअननुभुभवव ककेे ववषष(cid:50)(cid:50) औऔरर टटननओ(cid:37)ओ(cid:37) ववरर ससेे छछूूटट (cid:60)(cid:60)ददाानन\nकक(cid:16)(cid:16) गगईई हहैै /Startup Exemption for Years of\nExperience and Turnover",
+          "col_1": "No"
+        },
+        {
+          "(cid:1)(cid:1)बबडड (cid:1)(cid:1)ववववररणण//Bid Details": "(cid:1)(cid:1)वव(cid:61)(cid:61)ेेतताा ससे े ममाांगंगे े गगएए दद(cid:38)(cid:38)ततााववेज़ेज़/Document required\nfrom seller",
+          "col_1": "Experience Criteria,Bidder Turnover,Certificate (Requested\nin ATC),Additional Doc 1 (Requested in ATC)\n*In case any bidder is seeking exemption from Experience /\nTurnover Criteria, the supporting documents to prove his\neligibility for exemption must be uploaded for evaluation by\nthe buyer"
+        },
+        {
+          "(cid:1)(cid:1)बबडड (cid:1)(cid:1)ववववररणण//Bid Details": "1",
+          "col_1": null
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "rows": [
+        {
+          "col_0": "(cid:1)(cid:1)बबडड (cid:1)(cid:1)ववववररणण//Bid Details",
+          "col_1": null
+        },
+        {
+          "col_0": "(cid:71)(cid:71)ययाा आआपप ििनन(cid:1)(cid:1)ववददााककाारर(cid:72)(cid:72) (cid:73)(cid:73)ाारराा अअपपललोोडड (cid:64)(cid:64)ककएए गगएए दद(cid:38)(cid:38)ततााववेज़ेज़(cid:72)(cid:72) ककोो\nििनन(cid:1)(cid:1)ववददाा मम(cid:74) (cid:74) भभाागग ललेनेने े ववाालले े ससभभीी ििनन(cid:1)(cid:1)ववददााककाारर(cid:72)(cid:72) ककोो (cid:64)(cid:64)ददखखााननाा\nचचााहहतते े हह(cid:76)(cid:76)?? ससंदंदभभ (cid:37) (cid:37) ममेनेनू ू हहैै/Do you want to show\ndocuments uploaded by bidders to all\nbidders participated in bid?",
+          "col_1": "No"
+        },
+        {
+          "col_0": "(cid:1)(cid:1)बबडड ललगगाानने े कक(cid:16)(cid:16) ससममयय ससीीममाा (cid:38)(cid:38)ववततःः ननहह(cid:19)(cid:19)ं ं बबढ़ढ़ाानने े ककेे ििललएए\nआआवव(cid:58)(cid:58)ययकक (cid:1)(cid:1)बबडड कक(cid:16)(cid:16) ससं(cid:63)ं(cid:63)ययाा।। / Minimum number of\nbids required to disable automatic bid\nextension",
+          "col_1": "3"
+        },
+        {
+          "col_0": "(cid:64)(cid:64)ददनन(cid:72)(cid:72) कक(cid:16)(cid:16) ससं(cid:63)ं(cid:63)ययाा,, (cid:53)(cid:53)जजननककेे ििललएए (cid:1)(cid:1)बबडड ललगगाानने े कक(cid:16)(cid:16) ससममयय--ससीीममाा\nबबढ़ढ़ााईई जजााएएगगीी।। // Number of days for which Bid\nwould be auto--extended",
+          "col_1": "3"
+        },
+        {
+          "col_0": "ऑऑटटोो एए(cid:71)(cid:71)ससटट(cid:74)(cid:74)शशनन अअििधधककततमम (cid:64)(cid:64)ककततननीी बबाारर (cid:64)(cid:64)ककययाा जजााननाा हहैै।। //\nNumber of Auto Extension count",
+          "col_1": "2"
+        },
+        {
+          "col_0": "(cid:1)(cid:1)बबडड ससे े (cid:84)(cid:84)ररववसस (cid:37) (cid:37) ननीीललााममीी सस(cid:64)(cid:64)(cid:61)(cid:61)यय (cid:64)(cid:64)ककययाा/Bid to RA enabled",
+          "col_1": "Yes"
+        },
+        {
+          "col_0": "(cid:84)(cid:84)ररववसस(cid:37) (cid:37)ननीीललााममीी ययोो(cid:85)(cid:85)ययतताा ििननययमम/RA Qualification Rule",
+          "col_1": "50% Lowest Priced Technically Qualified Bidders"
+        },
+        {
+          "col_0": "(cid:1)(cid:1)बबडड ककाा (cid:60)(cid:60)ककाारर/Type of Bid",
+          "col_1": "Two Packet Bid"
+        },
+        {
+          "col_0": "ततककननीीकक(cid:16)(cid:16) ममू(cid:86)ू(cid:86)ययाांकंकनन ककेे ददौौरराानन ततककननीीकक(cid:16)(cid:16) (cid:38)(cid:38)पप(cid:88)(cid:88)ीीककररणण हहेेततुु\nअअननुमुमतत ससममयय /Time allowed for Technical\nClarifications during technical evaluation",
+          "col_1": "3 Days"
+        },
+        {
+          "col_0": "ममू(cid:86)ू(cid:86)ययाांकंकनन पप(cid:89)(cid:89)िितत/Evaluation Method",
+          "col_1": "Total value wise evaluation"
+        },
+        {
+          "col_0": "ममू(cid:86)ू(cid:86)यय ददशशाान(cid:37)न(cid:37) े े ववााललाा (cid:1)(cid:1)वव(cid:90)(cid:90)ीीयय दद(cid:38)(cid:38)ततााववेजेज (cid:91)(cid:91)ेकेकअअपप आआवव(cid:58)(cid:58)ययकक हहैै /\nFinancial Document Indicating Price\nBreakup Required",
+          "col_1": "Yes"
+        },
+        {
+          "col_0": "मम(cid:92)(cid:92)यय(cid:38)(cid:38)थथतताा खखंडंड/Arbitration Clause",
+          "col_1": "No"
+        },
+        {
+          "col_0": "ससुलुलहह खखंडंड/Mediation Clause",
+          "col_1": "No"
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "rows": [
+        {
+          "एडवाईजर(cid:19) ब(cid:76)क/Advisory Bank": "ईएमड(cid:19) रािश/EMD Amount",
+          "State Bank of India": "155330"
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "rows": [
+        {
+          "एडवाइजर(cid:19) ब(cid:76)क/Advisory Bank": "ईपीबीजी (cid:60)ितशत (%)/ePBG Percentage(%)",
+          "State Bank of India": "5.00"
+        },
+        {
+          "एडवाइजर(cid:19) ब(cid:76)क/Advisory Bank": "ईपीबीजी क(cid:16) आव(cid:58)यक अविध (माह) /Duration of ePBG\nrequired (Months).",
+          "State Bank of India": "38"
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "rows": []
+    },
+    {
+      "page": 3,
+      "rows": []
+    },
+    {
+      "page": 4,
+      "rows": [
+        {
+          "(cid:1)(cid:1)ववववररणण/ Specification": "ककोोरर / Core",
+          "ममू(cid:86)ू(cid:86)यय/ Values": null
+        },
+        {
+          "(cid:1)(cid:1)ववववररणण/ Specification": "Skill Category",
+          "ममू(cid:86)ू(cid:86)यय/ Values": "Skilled"
+        },
+        {
+          "(cid:1)(cid:1)ववववररणण/ Specification": "Educational Qualification",
+          "ममू(cid:86)ू(cid:86)यय/ Values": "Not Required"
+        },
+        {
+          "(cid:1)(cid:1)ववववररणण/ Specification": "Type of Function",
+          "ममू(cid:86)ू(cid:86)यय/ Values": "Others"
+        },
+        {
+          "(cid:1)(cid:1)ववववररणण/ Specification": "List of Profiles",
+          "ममू(cid:86)ू(cid:86)यय/ Values": "Office Peon"
+        },
+        {
+          "(cid:1)(cid:1)ववववररणण/ Specification": "Specialization",
+          "ममू(cid:86)ू(cid:86)यय/ Values": "Not Required"
+        },
+        {
+          "(cid:1)(cid:1)ववववररणण/ Specification": "Post Graduation",
+          "ममू(cid:86)ू(cid:86)यय/ Values": "Not Required"
+        },
+        {
+          "(cid:1)(cid:1)ववववररणण/ Specification": "Specialization for PG",
+          "ममू(cid:86)ू(cid:86)यय/ Values": "Not Applicable"
+        },
+        {
+          "(cid:1)(cid:1)ववववररणण/ Specification": "Experience",
+          "ममू(cid:86)ू(cid:86)यय/ Values": "0 to 3 Years"
+        },
+        {
+          "(cid:1)(cid:1)ववववररणण/ Specification": "State",
+          "ममू(cid:86)ू(cid:86)यय/ Values": "NA"
+        },
+        {
+          "(cid:1)(cid:1)ववववररणण/ Specification": "Zipcode",
+          "ममू(cid:86)ू(cid:86)यय/ Values": "NA"
+        },
+        {
+          "(cid:1)(cid:1)ववववररणण/ Specification": "District",
+          "ममू(cid:86)ू(cid:86)यय/ Values": "NA"
+        },
+        {
+          "(cid:1)(cid:1)ववववररणण/ Specification": "Is the Geographical presence of the Service Provider's office required in the consignee's State",
+          "ममू(cid:86)ू(cid:86)यय/ Values": "Yes"
+        },
+        {
+          "(cid:1)(cid:1)ववववररणण/ Specification": "Name of states/ UT for geographical presence is required",
+          "ममू(cid:86)ू(cid:86)यय/ Values": "Uttar Pradesh"
+        },
+        {
+          "(cid:1)(cid:1)ववववररणण/ Specification": "एएडडऑऑनन /Addon(s)",
+          "ममू(cid:86)ू(cid:86)यय/ Values": null
+        },
+        {
+          "(cid:1)(cid:1)ववववररणण/ Specification": "अअिितत(cid:84)(cid:84)रर(cid:98)(cid:98) (cid:1)(cid:1)ववववररणण /Additional Details",
+          "ममू(cid:86)ू(cid:86)यय/ Values": null
+        },
+        {
+          "(cid:1)(cid:1)ववववररणण/ Specification": "Title for Optional Allowances 1",
+          "ममू(cid:86)ू(cid:86)यय/ Values": "0"
+        },
+        {
+          "(cid:1)(cid:1)ववववररणण/ Specification": "Title for Optional Allowances 2",
+          "ममू(cid:86)ू(cid:86)यय/ Values": "0"
+        },
+        {
+          "(cid:1)(cid:1)ववववररणण/ Specification": "Title for Optional Allowances 3",
+          "ममू(cid:86)ू(cid:86)यय/ Values": "0"
+        },
+        {
+          "(cid:1)(cid:1)ववववररणण/ Specification": "Designation",
+          "ममू(cid:86)ू(cid:86)यय/ Values": "0"
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "rows": []
+    },
+    {
+      "page": 5,
+      "rows": [
+        {
+          "(cid:61)(cid:61)..ससं.ं./S.N\no.": "1",
+          "पपररेे(cid:1)(cid:1)षषततीी//(cid:84)(cid:84)ररपपोो(cid:64)(cid:64)टट(cid:100)(cid:100)गग\nअअििधधककाारर(cid:19)(cid:19) /Consignee\nReporting/Officer": "Brajendra Bhardwaj",
+          "पपतताा/Address": "226001,19 C ,TULSI GANGA\nCOMPLEX ,VIDHAN SABHA\nMARG,LUCKNOW",
+          "ससंसंसााधधनन(cid:72)(cid:72) कक(cid:16)(cid:16) ममाा(cid:32)(cid:32)ाा\n/ Number of\nResources to\nbe hired": "14",
+          "अअिितत(cid:84)(cid:84)रर(cid:98)(cid:98) आआवव(cid:58)(cid:58)ययककतताा\n/Additional\nRequirement": "Minimum daily\nwage (INR)\nexclusive of GST :\n522.3\nBonus (INR per\nday) : 0\nEDLI (INR per day)\n: 0\nEPF Admin Charge\n(INR per day) : 0\nOptional\nAllowances 1 (INR\nper day) : 0\nOptional\nAllowances 2 (INR\nper day) : 0\nOptional\nAllowances 3 (INR\nper day) : 0\nEstimated Number\nof Overtime Hours\nper Resource per\nMonth : 0\nRemuneration per\nresource per hour\nfor Overtime Hours\n(Including all\napplicable\nallowance etc &\nexcluding GST) : 0\nESI (INR per day) :\n16.96\nProvident Fund\n(INR per day) :\n67.88\nNumber of working\ndays in a month :\n26\nTenure/ Duration of\nEmployment (in\nmonths) : 36"
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "rows": [
+        {
+          "(cid:1)(cid:1)ववववररणण/ Specification": "ककोोरर / Core",
+          "ममू(cid:86)ू(cid:86)यय/ Values": null
+        },
+        {
+          "(cid:1)(cid:1)ववववररणण/ Specification": "Skill Category",
+          "ममू(cid:86)ू(cid:86)यय/ Values": "Unskilled"
+        },
+        {
+          "(cid:1)(cid:1)ववववररणण/ Specification": "Educational Qualification",
+          "ममू(cid:86)ू(cid:86)यय/ Values": "Not Required"
+        },
+        {
+          "(cid:1)(cid:1)ववववररणण/ Specification": "Type of Function",
+          "ममू(cid:86)ू(cid:86)यय/ Values": "Others"
+        },
+        {
+          "(cid:1)(cid:1)ववववररणण/ Specification": "List of Profiles",
+          "ममू(cid:86)ू(cid:86)यय/ Values": "Office Peon"
+        },
+        {
+          "(cid:1)(cid:1)ववववररणण/ Specification": "Specialization",
+          "ममू(cid:86)ू(cid:86)यय/ Values": "Not Required"
+        },
+        {
+          "(cid:1)(cid:1)ववववररणण/ Specification": "Post Graduation",
+          "ममू(cid:86)ू(cid:86)यय/ Values": "Not Required"
+        },
+        {
+          "(cid:1)(cid:1)ववववररणण/ Specification": "Specialization for PG",
+          "ममू(cid:86)ू(cid:86)यय/ Values": "Not Applicable"
+        },
+        {
+          "(cid:1)(cid:1)ववववररणण/ Specification": "Experience",
+          "ममू(cid:86)ू(cid:86)यय/ Values": "0 to 3 Years"
+        },
+        {
+          "(cid:1)(cid:1)ववववररणण/ Specification": "State",
+          "ममू(cid:86)ू(cid:86)यय/ Values": "NA"
+        },
+        {
+          "(cid:1)(cid:1)ववववररणण/ Specification": "Zipcode",
+          "ममू(cid:86)ू(cid:86)यय/ Values": "NA"
+        },
+        {
+          "(cid:1)(cid:1)ववववररणण/ Specification": "District",
+          "ममू(cid:86)ू(cid:86)यय/ Values": "NA"
+        },
+        {
+          "(cid:1)(cid:1)ववववररणण/ Specification": "Is the Geographical presence of the Service Provider's office required in the consignee's State",
+          "ममू(cid:86)ू(cid:86)यय/ Values": "Yes"
+        },
+        {
+          "(cid:1)(cid:1)ववववररणण/ Specification": "Name of states/ UT for geographical presence is required",
+          "ममू(cid:86)ू(cid:86)यय/ Values": "Uttar Pradesh"
+        },
+        {
+          "(cid:1)(cid:1)ववववररणण/ Specification": "एएडडऑऑनन /Addon(s)",
+          "ममू(cid:86)ू(cid:86)यय/ Values": null
+        },
+        {
+          "(cid:1)(cid:1)ववववररणण/ Specification": "अअिितत(cid:84)(cid:84)रर(cid:98)(cid:98) (cid:1)(cid:1)ववववररणण /Additional Details",
+          "ममू(cid:86)ू(cid:86)यय/ Values": null
+        },
+        {
+          "(cid:1)(cid:1)ववववररणण/ Specification": "Title for Optional Allowances 1",
+          "ममू(cid:86)ू(cid:86)यय/ Values": "0"
+        },
+        {
+          "(cid:1)(cid:1)ववववररणण/ Specification": "Title for Optional Allowances 2",
+          "ममू(cid:86)ू(cid:86)यय/ Values": "0"
+        },
+        {
+          "(cid:1)(cid:1)ववववररणण/ Specification": "Title for Optional Allowances 3",
+          "ममू(cid:86)ू(cid:86)यय/ Values": "0"
+        },
+        {
+          "(cid:1)(cid:1)ववववररणण/ Specification": "Designation",
+          "ममू(cid:86)ू(cid:86)यय/ Values": "0"
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "rows": []
+    },
+    {
+      "page": 7,
+      "rows": [
+        {
+          "(cid:61)(cid:61)..ससं.ं./S.N\no.": "1",
+          "पपररेे(cid:1)(cid:1)षषततीी//(cid:84)(cid:84)ररपपोो(cid:64)(cid:64)टट(cid:100)(cid:100)गग\nअअििधधककाारर(cid:19)(cid:19) /Consignee\nReporting/Officer": "Brajendra Bhardwaj",
+          "पपतताा/Address": "226001,19 C ,TULSI GANGA\nCOMPLEX ,VIDHAN SABHA\nMARG,LUCKNOW",
+          "ससंसंसााधधनन(cid:72)(cid:72) कक(cid:16)(cid:16) ममाा(cid:32)(cid:32)ाा\n/ Number of\nResources to\nbe hired": "9",
+          "अअिितत(cid:84)(cid:84)रर(cid:98)(cid:98) आआवव(cid:58)(cid:58)ययककतताा\n/Additional\nRequirement": "Minimum daily\nwage (INR)\nexclusive of GST :\n423.88\nBonus (INR per\nday) : 0\nEDLI (INR per day)\n: 0\nEPF Admin Charge\n(INR per day) : 0\nOptional\nAllowances 1 (INR\nper day) : 0\nOptional\nAllowances 2 (INR\nper day) : 0\nOptional\nAllowances 3 (INR\nper day) : 0\nEstimated Number\nof Overtime Hours\nper Resource per\nMonth : 00\nRemuneration per\nresource per hour\nfor Overtime Hours\n(Including all\napplicable\nallowance etc &\nexcluding GST) : 0\nESI (INR per day) :\n13.76\nProvident Fund\n(INR per day) :\n55.11\nNumber of working\ndays in a month :\n26\nTenure/ Duration of\nEmployment (in\nmonths) : 36"
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "rows": [
+        {
+          "(cid:1)(cid:1)ववववररणण/ Specification": "ककोोरर / Core",
+          "ममू(cid:86)ू(cid:86)यय/ Values": null
+        },
+        {
+          "(cid:1)(cid:1)ववववररणण/ Specification": "Skill Category",
+          "ममू(cid:86)ू(cid:86)यय/ Values": "Skilled"
+        },
+        {
+          "(cid:1)(cid:1)ववववररणण/ Specification": "Educational Qualification",
+          "ममू(cid:86)ू(cid:86)यय/ Values": "ITI"
+        },
+        {
+          "(cid:1)(cid:1)ववववररणण/ Specification": "Type of Function",
+          "ममू(cid:86)ू(cid:86)यय/ Values": "Others"
+        },
+        {
+          "(cid:1)(cid:1)ववववररणण/ Specification": "7",
+          "ममू(cid:86)ू(cid:86)यय/ Values": null
+        }
+      ]
+    },
+    {
+      "page": 8,
+      "rows": [
+        {
+          "col_0": "(cid:1)(cid:1)ववववररणण/ Specification",
+          "col_1": "ममू(cid:86)ू(cid:86)यय/ Values"
+        },
+        {
+          "col_0": "List of Profiles",
+          "col_1": "Electrician"
+        },
+        {
+          "col_0": "Specialization",
+          "col_1": "Not Required"
+        },
+        {
+          "col_0": "Post Graduation",
+          "col_1": "Not Required"
+        },
+        {
+          "col_0": "Specialization for PG",
+          "col_1": "Not Applicable"
+        },
+        {
+          "col_0": "Experience",
+          "col_1": "0 to 3 Years"
+        },
+        {
+          "col_0": "State",
+          "col_1": "NA"
+        },
+        {
+          "col_0": "Zipcode",
+          "col_1": "NA"
+        },
+        {
+          "col_0": "District",
+          "col_1": "NA"
+        },
+        {
+          "col_0": "Is the Geographical presence of the Service Provider's office required in the consignee's State",
+          "col_1": "Yes"
+        },
+        {
+          "col_0": "Name of states/ UT for geographical presence is required",
+          "col_1": "Uttar Pradesh"
+        },
+        {
+          "col_0": "एएडडऑऑनन /Addon(s)",
+          "col_1": null
+        },
+        {
+          "col_0": "अअिितत(cid:84)(cid:84)रर(cid:98)(cid:98) (cid:1)(cid:1)ववववररणण /Additional Details",
+          "col_1": null
+        },
+        {
+          "col_0": "Title for Optional Allowances 1",
+          "col_1": "0"
+        },
+        {
+          "col_0": "Title for Optional Allowances 2",
+          "col_1": "0"
+        },
+        {
+          "col_0": "Title for Optional Allowances 3",
+          "col_1": "0"
+        },
+        {
+          "col_0": "Designation",
+          "col_1": "0"
+        }
+      ]
+    },
+    {
+      "page": 8,
+      "rows": []
+    },
+    {
+      "page": 8,
+      "rows": [
+        {
+          "(cid:61)(cid:61)..ससं.ं./S.N\no.": "8",
+          "पपररेे(cid:1)(cid:1)षषततीी//(cid:84)(cid:84)ररपपोो(cid:64)(cid:64)टट(cid:100)(cid:100)गग\nअअििधधककाारर(cid:19)(cid:19) /Consignee\nReporting/Officer": null,
+          "पपतताा/Address": null,
+          "ससंसंसााधधनन(cid:72)(cid:72) कक(cid:16)(cid:16) ममाा(cid:32)(cid:32)ाा\n/ Number of\nResources to\nbe hired": null,
+          "अअिितत(cid:84)(cid:84)रर(cid:98)(cid:98) आआवव(cid:58)(cid:58)ययककतताा\n/Additional\nRequirement": null
+        }
+      ]
+    },
+    {
+      "page": 9,
+      "rows": [
+        {
+          "col_0": "(cid:61)(cid:61)..ससं.ं./S.N\no.",
+          "col_1": "पपररेे(cid:1)(cid:1)षषततीी//(cid:84)(cid:84)ररपपोो(cid:64)(cid:64)टट(cid:100)(cid:100)गग\nअअििधधककाारर(cid:19)(cid:19) /Consignee\nReporting/Officer",
+          "col_2": "पपतताा/Address",
+          "col_3": "ससंसंसााधधनन(cid:72)(cid:72) कक(cid:16)(cid:16) ममाा(cid:32)(cid:32)ाा\n/ Number of\nResources to\nbe hired",
+          "col_4": "अअिितत(cid:84)(cid:84)रर(cid:98)(cid:98) आआवव(cid:58)(cid:58)ययककतताा\n/Additional\nRequirement"
+        },
+        {
+          "col_0": "1",
+          "col_1": "Brajendra Bhardwaj",
+          "col_2": "226001,19 C ,TULSI GANGA\nCOMPLEX ,VIDHAN SABHA\nMARG,LUCKNOW",
+          "col_3": "1",
+          "col_4": "Minimum daily\nwage (INR)\nexclusive of GST :\n522.3\nBonus (INR per\nday) : 0\nEDLI (INR per day)\n: 0\nEPF Admin Charge\n(INR per day) : 0\nOptional\nAllowances 1 (INR\nper day) : 0\nOptional\nAllowances 2 (INR\nper day) : 0\nOptional\nAllowances 3 (INR\nper day) : 0\nEstimated Number\nof Overtime Hours\nper Resource per\nMonth : 0\nRemuneration per\nresource per hour\nfor Overtime Hours\n(Including all\napplicable\nallowance etc &\nexcluding GST) : 0\nESI (INR per day) :\n16.96\nProvident Fund\n(INR per day) :\n67.88\nNumber of working\ndays in a month :\n26\nTenure/ Duration of\nEmployment (in\nmonths) : 36"
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "page": 4,
+      "url": "https://bidplus.gem.gov.in/resources/upload_nas/NovQ425/bidding/biddoc/bid-8590223/1763709860.pdf",
+      "ext": "pdf",
+      "raw": "1763709860.pdf"
+    },
+    {
+      "page": 4,
+      "url": "https://bidplus.gem.gov.in/resources/upload_nas/NovQ425/bidding/biddoc/bid-8590223/1763709881.pdf",
+      "ext": "pdf",
+      "raw": "1763709881.pdf"
+    },
+    {
+      "page": 4,
+      "url": "https://bidplus.gem.gov.in/resources/upload_nas/NovQ425/bidding/biddoc/bid-8590223/1763709884.pdf",
+      "ext": "pdf",
+      "raw": "1763709884.pdf"
+    },
+    {
+      "page": 4,
+      "url": "https://bidplus.gem.gov.in/resources/upload_nas/NovQ425/bidding/biddoc/bid-8590223/1763709887.pdf",
+      "ext": "pdf",
+      "raw": "1763709887.pdf"
+    },
+    {
+      "page": 10,
+      "url": "https://fulfilment.gem.gov.in/contract/slafds?fileDownloadPath=SLA_UPLOAD_PATH/2025/Nov/GEM_2025_B_6892639/CLM0010/Rules_c6b9f3cc-a1bb-49d3-b1661763710472122_spprpb.pdf",
+      "ext": "",
+      "raw": "slafds"
+    },
+    {
+      "page": 10,
+      "url": "https://fulfilment.gem.gov.in/contract/slafds?fileDownloadPath=SLA_UPLOAD_PATH/2025/Nov/GEM_2025_B_6892639/CLM0014/Rules_ba973006-f5d2-4c0c-9bc51763710490470_spprpb.pdf",
+      "ext": "",
+      "raw": "slafds"
+    },
+    {
+      "page": 11,
+      "url": "https://assets-bg.gem.gov.in/resources/upload/shared_doc/list-of-categories-where-trials-are-allowed_1712126171.pdf",
+      "ext": "pdf",
+      "raw": "list-of-categories-where-trials-are-allowed_1712126171.pdf"
+    },
+    {
+      "page": 11,
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20251121",
+      "ext": "in/apis/v1/gtc/pdfbydate/?date=20251121",
+      "raw": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20251121"
+    },
+    {
+      "page": 11,
+      "url": "https://bidplus.gem.gov.in/bidding/bid/bidsla/73791931189729",
+      "ext": "",
+      "raw": "73791931189729"
+    }
+  ]
+}

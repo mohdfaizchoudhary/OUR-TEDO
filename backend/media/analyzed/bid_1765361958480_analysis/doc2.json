@@ -1,0 +1,48 @@
+{
+  "plain_text": "--- PAGE 1 ---\nURANIUM CORPORATION OF INDIA LTD.\n(A Government of India Enterprises)\nTummalapalle Uranium Project\n(P.O.) M. C. Palle, Vemula (M), YSR District, Andhra Pradesh – 516 349\nAnnexure-1\nS. No. Description of material Quantity\n2 3-Phase squirrel cage induction motor, KW – 7.5, HP – 10, FRAME-KI-132S, 1 Nos\nVoltage: - 415V +/- 10%, current – 13.5 Amps, Rpm-2920, P.F -0.88, freq-\n50HZ, Efficiency- 88%, Duty-S1, Ins-Class-F, IS-325, connection-delta,\nAmbient temp- 50degC, frame material motor must be Cast iron body\nExisting make: KIRLOSKAR\nNote: All makes are acceptable",
+  "tables": [
+    {
+      "page": 1,
+      "table": [
+        [
+          "S. No.",
+          "Description of material",
+          "Quantity"
+        ],
+        [
+          "2",
+          "3-Phase squirrel cage induction motor, KW – 7.5, HP – 10, FRAME-KI-132S,\nVoltage: - 415V +/- 10%, current – 13.5 Amps, Rpm-2920, P.F -0.88, freq-\n50HZ, Efficiency- 88%, Duty-S1, Ins-Class-F, IS-325, connection-delta,\nAmbient temp- 50degC, frame material motor must be Cast iron body\nExisting make: KIRLOSKAR",
+          "1 Nos"
+        ]
+      ]
+    }
+  ],
+  "images": [],
+  "links": [],
+  "ai_summary": {
+    "headings": [
+      "URANIUM CORPORATION OF INDIA LTD.",
+      "Tummalapalle Uranium Project",
+      "Annexure-1"
+    ],
+    "bullets": [
+      "3-Phase squirrel cage induction motor, KW – 7.5, HP – 10, FRAME-KI-132S, 1 Nos",
+      "Voltage: 415V +/- 10%",
+      "Current: 13.5 Amps",
+      "Rpm: 2920",
+      "Power Factor: 0.88",
+      "Frequency: 50HZ",
+      "Efficiency: 88%",
+      "Duty: S1",
+      "Insulation Class: F",
+      "IS-325",
+      "Connection: delta",
+      "Ambient temperature: 50degC",
+      "Frame material: motor must be Cast iron body",
+      "Existing make: KIRLOSKAR",
+      "All makes are acceptable"
+    ],
+    "summary": "The document details the specifications for a 3-phase squirrel cage induction motor required by the Uranium Corporation of India Ltd. at the Tummalapalle Uranium Project. The motor should have a power rating of 7.5 KW (10 HP), specific electrical and mechanical characteristics, and a cast iron body. While the existing make is Kirloskar, all makes are acceptable."
+  },
+  "source_url": "https://mkp.gem.gov.in/catalog_data/catalog_support_document/buyer_documents/16559666/54/78/703/CatalogAttrs/SpecificationDocument/2025/11/11/material_details2_2025-11-11-16-41-56_030e8bec49ae70dfe509a6bb210d5ed9.pdf"
+}

@@ -1,0 +1,417 @@
+{
+  "items": [
+    {
+      "name": "Blood Glucose Test Strips (Glucostrips) with Glucometer",
+      "category": "Q2"
+    },
+    {
+      "name": "Blood Glucose Test Strips (Glucostrips) with Glucometer",
+      "specifications": [
+        {
+          "feature": "One compatible glucometer should be provided free of cost on purchase of every",
+          "requirement": "800, 1000 Or lower"
+        },
+        {
+          "feature": "Enzyme used in the glucostrip",
+          "requirement": "Glucose Oxidase, Glucose Dehydrogenase (GDH)"
+        },
+        {
+          "feature": "Shelf life of glucostrips from the date of manufacture",
+          "requirement": "18, 24, 30, 36 Or higher"
+        },
+        {
+          "feature": "Shelf life of glucostrips after first opening of the strip pack(Months)",
+          "requirement": "6 Or higher"
+        },
+        {
+          "feature": "Number of strips packed in one container",
+          "requirement": "50, 100"
+        },
+        {
+          "feature": "Free from Manual Coding",
+          "requirement": "Yes"
+        }
+      ]
+    }
+  ],
+  "document_submission_req": "Documents required from seller: Experience Criteria, Past Performance, Bidder Turnover, OEM Authorization Certificate, OEM Annual Turnover, Compliance of BoQ specification and supporting document. If seeking exemption, supporting documents to prove eligibility for exemption must be uploaded.",
+  "exemptions": [
+    "MSE Exemption for Years Of Experience and Turnover",
+    "Startup Exemption for Years Of Experience and Turnover",
+    "No EMD submission required.",
+    "No tender/bid/auction participation fee required.",
+    "No physical document submission required."
+  ],
+  "eligibility_criteria": [
+    "Minimum average annual financial turnover of the bidder during the last three years should be as indicated above.",
+    "Experience Criteria: Bidder or its OEM should have regularly manufactured and supplied same or similar Category Products to any Central / State Govt Organization / PSU for number of Financial years as indicated above.",
+    "OEM Turn Over Criteria: Minimum average annual financial turnover of the OEM of the offered product during the last three years should be as indicated.",
+    "Preference to Make In India products: Only Class-I and Class-II Local suppliers as per MII order dated 4.6.2020 will be eligible to bid.",
+    "Purchase preference will be given to MSEs having valid Udyam Registration and whose credentials are validated online.",
+    "Past Performance: The Bidder or its OEM should have supplied same or similar Category Products for 30% of bid quantity, in at least one of the last three Financial years before the bid opening date to any Central / State Govt Organization / PSU.",
+    "Bidder from a country sharing land border with India must be registered with Competent Authority.",
+    "Bidder must comply with all applicable laws and regulations."
+  ],
+  "bid_no": "GEM/2025/B/6831081",
+  "emd_or_fee": {
+    "epbg_required": "False",
+    "emd_required": "False"
+  },
+  "full_text_summary": "This is a two-packet bid (GEM/2025/B/6831081) issued by the Indian Army under the Ministry of Defence for the procurement of 6000 Blood Glucose Test Strips (Glucostrips) with Glucometer. The bid opens on 18-11-2025 at 20:30 and closes at 20:00 the same day. The minimum average annual turnover required is 1 lakh for bidders and 4 lakh for OEMs over the last 3 years, with 2 years of past experience in similar services and 30% past performance. MSEs and Startups are eligible for exemptions from experience and turnover criteria, provided supporting documents are uploaded. Preference is given to Make in India and MSE suppliers, with specific purchase preference margins and quantity limits. The bid process includes reverse auction, technical clarifications, and post-dispatch inspection by a Board of Officers. No EMD or ePBG is required. The evaluation is total value wise, and there are no arbitration or mediation clauses.",
+  "total_quantity": "6000",
+  "major_docs": [
+    "Experience Criteria",
+    "Past Performance",
+    "Bidder Turnover",
+    "OEM Authorization Certificate",
+    "OEM Annual Turnover",
+    "Compliance of BoQ specification and supporting document"
+  ],
+  "turnover_req": {
+    "oem_avg_annual_turnover_3yr": "4 Lakh",
+    "bidder_avg_annual_turnover_3yr": "1 Lakh"
+  },
+  "buyer_terms": [
+    "Bid to RA enabled",
+    "RA Qualification Rule: 50% Lowest Priced Technically Qualified Bidders",
+    "Inspection Required (By Empanelled Inspection Authority / Agencies pre-registered with GeM)",
+    "Inspection to be carried out by Buyers own empanelled agency",
+    "Type Of Inspection: Post Dispatch",
+    "Name of the Empanelled Inspection Agency/ Authority: Board of Officers",
+    "Auto CRAC Days: 60",
+    "Evaluation Method: Total value wise evaluation",
+    "Arbitration Clause: No",
+    "Mediation Clause: No",
+    "Option Clause: Purchaser reserves right to increase/decrease quantity up to 25% at contract placement or during contract.",
+    "Additional delivery time calculation if option clause exercised.",
+    "Bid is governed by General Terms and Conditions (GTC).",
+    "Restrictions on procurement from bidders of countries sharing land border with India unless registered with Competent Authority.",
+    "No EMD or tender fee required as per GeM GTC.",
+    "No physical document submission as pre-qualification.",
+    "No specific brand/make/model/manufacturer/dealer name allowed.",
+    "No foreign/international certifications mandated without Indian equivalent.",
+    "No experience required from specific organizations or foreign/export experience.",
+    "No bunching of irrelevant items or categories."
+  ],
+  "undertakings": [
+    "Compliance with Drugs and Cosmetics Act, 1940 and all applicable notifications by CDSCO, MoHFW, DOP.",
+    "Sellers must have valid Drug License, product certification, test reports, etc.",
+    "Price must not exceed DPCO controlled price, MRP, or selling price; must reduce if DPCO ceiling price is reduced.",
+    "Compliance with all applicable laws including Labour Laws."
+  ],
+  "bid_type": "Two Packet Bid",
+  "start_date": "08-11-2025",
+  "tender_dates": {
+    "bid_opening": "18-11-2025 20:30:00",
+    "bid_end": "18-11-2025 20:00:00",
+    "delivery_days": "15",
+    "bid_offer_validity_days": "180"
+  },
+  "important_terms": [
+    "Bid splitting not applied",
+    "MII Purchase Preference: Yes, up to L1+20%, max 50% of bid quantity",
+    "MSE Purchase Preference: Yes, up to L1+15%, max 25% of bid quantity",
+    "Minimum 50% and 20% Local Content required for qualifying as Class 1 and Class 2 Local Supplier respectively",
+    "Time allowed for Technical Clarifications during technical evaluation: 2 Days",
+    "Minimum number of bids required to disable automatic bid extension: 1",
+    "Number of days for which Bid would be auto-extended: 3",
+    "Number of Auto Extension count: 2",
+    "Bidder must comply with all applicable laws and regulations.",
+    "False declaration or non-compliance may result in immediate contract termination and legal action.",
+    "Bid is subject to General Terms and Conditions and any additional terms approved by Competent Authority."
+  ],
+  "end_date": "18-11-2025 20:00:00",
+  "experience_req": {
+    "past_performance_percent": "30",
+    "years_of_past_experience": "2"
+  },
+  "raw_text_pages": [
+    {
+      "page": 1,
+      "text": "(cid:1)बड सं(cid:61)या/Bid Number: GEM/2025/B/6831081\n(cid:62)दनांक /Dated: 08-11-2025\n(cid:1)(cid:1)बबडड दद(cid:38)(cid:38)ततााववेज़ेज़ / Bid Document\n(cid:1)(cid:1)बबडड (cid:1)(cid:1)ववववररणण//Bid Details\n(cid:1)(cid:1)बबडड बबंदंद हहोोनने े कक(cid:16)(cid:16) तताारर(cid:19)(cid:19)खख//ससममयय /Bid End Date/Time 18-11-2025 20:00:00\n(cid:1)(cid:1)बबडड खखुलुलनने े कक(cid:16)(cid:16) तताारर(cid:19)(cid:19)खख//ससममयय /Bid Opening\n18-11-2025 20:30:00\nDate/Time\n(cid:1)(cid:1)बबडड पपेशेशककशश ववैधैधतताा ((बबंदंद हहोोनने े कक(cid:16)(cid:16) तताारर(cid:19)(cid:19)खख ससे)े)/Bid Offer\n180 (Days)\nValidity (From End Date)\nममं(cid:32)ं(cid:32)ााललयय//रराा(cid:33)(cid:33)यय ककाा ननाामम/Ministry/State Name Ministry Of Defence\n(cid:1)(cid:1)ववभभाागग ककाा ननाामम/Department Name Department Of Military Affairs\nससंगंगठठनन ककाा ननाामम/Organisation Name Indian Army\nककााययााल(cid:37)ल(cid:37) यय ककाा ननाामम/Office Name ***********\nककुुलल ममाा(cid:32)(cid:32)ाा/Total Quantity 6000\nBlood Glucose Test Strips (Glucostrips) with Glucometer\nवव(cid:38)(cid:38)ततु ु (cid:39)(cid:39)णेणे ीी /Item Category\n(Q2)\n(cid:1)(cid:1)बबडडरर ककाा (cid:41)(cid:41)ययूनूनततमम औऔससतत ववाा(cid:1)(cid:1)षषक(cid:37)क(cid:37) टटननओ(cid:37)ओ(cid:37) ववरर ((33 ववषष(cid:48)(cid:48) ककाा))\n/Minimum Average Annual Turnover of the 1 Lakh (s)\nbidder (For 3 Years)\nममूलूल उउपपककररणण ििननममाात(cid:37)त(cid:37) ाा ककाा औऔससतत टटननओ(cid:37)ओ(cid:37) ववरर ((गगतत 33 ववषष(cid:48)(cid:48)\n4 Lakh (s)\nककाा))/OEM Average Turnover (Last 3 Years)\nउउ(cid:41)(cid:41)हह(cid:19)(cid:19)ं/ं/ससममाानन ससेवेवाा ककेे ििललएए अअपपे(cid:53)े(cid:53)(cid:54)(cid:54)तत (cid:1)(cid:1)ववगगतत अअननुभुभवव ककेे\nववषष/(cid:37)(cid:37)Years of Past Experience Required for 2 Year (s)\nsame/similar service\nववषष(cid:48)(cid:48) ककेे अअननुभुभवव एएववंं टटननओ(cid:37)ओ(cid:37) ववरर ससेे एएममएएससईई ककोो छछूूटट (cid:57)(cid:57)ाा(cid:58)(cid:58) हहैै /\nMSE Exemption for Years Of Experience Yes | Complete\nand Turnover\n(cid:38)(cid:38)टटााटट(cid:37)(cid:37)अअपप ककेे ििललएए अअननुभुभवव ककेे ववषष(cid:48)(cid:48) औऔरर टटननओ(cid:37)ओ(cid:37) ववरर ससेे छछूूटट (cid:57)(cid:57)ददाानन\nकक(cid:16)(cid:16) गगईई हहैै / Startup Exemption for Years Of Yes | Complete\nExperience and Turnover\nExperience Criteria,Past Performance,Bidder Turnover,OEM\nAuthorization Certificate,OEM Annual Turnover,Compliance\nof BoQ specification and supporting document\n(cid:1)(cid:1)वव(cid:59)(cid:59)ेेतताा ससे े ममाांगंगे े गगएए दद(cid:38)(cid:38)ततााववेज़ेज़/Document required\n*In case any bidder is seeking exemption from Experience /\nfrom seller\nTurnover Criteria, the supporting documents to prove his\neligibility for exemption must be uploaded for evaluation by\nthe buyer\n1 / 8"
+    },
+    {
+      "page": 2,
+      "text": "(cid:1)(cid:1)बबडड (cid:1)(cid:1)ववववररणण//Bid Details\n(cid:70)(cid:70)ययाा आआपप ििनन(cid:1)(cid:1)ववददााककाारर(cid:72)(cid:72) (cid:73)(cid:73)ाारराा अअपपललोोडड (cid:62)(cid:62)ककएए गगएए दद(cid:38)(cid:38)ततााववेज़ेज़(cid:72)(cid:72) ककोो\nििनन(cid:1)(cid:1)ववददाा मम(cid:74) (cid:74) भभाागग ललेनेने े ववाालले े ससभभीी ििनन(cid:1)(cid:1)ववददााककाारर(cid:72)(cid:72) ककोो (cid:62)(cid:62)ददखखााननाा Yes (Documents submitted as part of a clarification or\nrepresentation during the tender/bid process will also be\nचचााहहतते े हह(cid:76)(cid:76)?? ससंदंदभभ (cid:37) (cid:37) ममेनेनू ू हहैै/Do you want to show\ndisplayed to other participated bidders after log in)\ndocuments uploaded by bidders to all\nbidders participated in bid?\n(cid:1)(cid:1)बबडड ललगगाानने े कक(cid:16)(cid:16) ससममयय ससीीममाा (cid:38)(cid:38)ववततःः ननहह(cid:19)(cid:19)ं ं बबढ़ढ़ाानने े ककेे ििललएए\nआआवव(cid:80)(cid:80)ययकक (cid:1)(cid:1)बबडड कक(cid:16)(cid:16) ससं(cid:61)ं(cid:61)ययाा।। / Minimum number of 1\nbids required to disable automatic bid\nextension\n(cid:62)(cid:62)ददनन(cid:72)(cid:72) कक(cid:16)(cid:16) ससं(cid:61)ं(cid:61)ययाा,, (cid:53)(cid:53)जजननककेे ििललएए (cid:1)(cid:1)बबडड ललगगाानने े कक(cid:16)(cid:16) ससममयय--ससीीममाा\nबबढ़ढ़ााईई जजााएएगगीी।। // Number of days for which Bid 3\nwould be auto--extended\nऑऑटटोो एए(cid:70)(cid:70)ससटट(cid:74)(cid:74)शशनन अअििधधककततमम (cid:62)(cid:62)ककततननीी बबाारर (cid:62)(cid:62)ककययाा जजााननाा हहैै।। //\n2\nNumber of Auto Extension count\n(cid:1)(cid:1)ववगगतत (cid:57)(cid:57)ददशशन(cid:37)न(cid:37) /Past Performance 30 %\n(cid:1)(cid:1)बबडड ससे े (cid:85)(cid:85)ररववसस (cid:37) (cid:37) ननीीललााममीी सस(cid:62)(cid:62)(cid:59)(cid:59)यय (cid:62)(cid:62)ककययाा/Bid to RA enabled Yes\n(cid:85)(cid:85)ररववसस(cid:37) (cid:37)ननीीललााममीी ययोो(cid:86)(cid:86)ययतताा ििननययमम/RA Qualification Rule 50% Lowest Priced Technically Qualified Bidders\n(cid:1)(cid:1)बबडड ककाा (cid:57)(cid:57)ककाारर/Type of Bid Two Packet Bid\nततककननीीकक(cid:16)(cid:16) ममू(cid:87)ू(cid:87)ययाांकंकनन ककेे ददौौरराानन ततककननीीकक(cid:16)(cid:16) (cid:38)(cid:38)पप(cid:89)(cid:89)ीीककररणण हहेेततुु\nअअननुमुमतत ससममयय /Time allowed for Technical 2 Days\nClarifications during technical evaluation\nििननरर(cid:19)(cid:19)(cid:54)(cid:54)णण आआवव(cid:80)(cid:80)ययकक (ससूचूचीीबब(cid:90)(cid:90) ििननरर(cid:19)(cid:19)(cid:54)(cid:54)णण (cid:57)(cid:57)ााििधधककररणण /जजेमेम ककेे ससााथथ\nपपूवूव(cid:37) (cid:37)पपंजंजीीककृृतत एएजज(cid:74)ि(cid:74)िससयय(cid:72)(cid:72) (cid:73)(cid:73)ाारराा)/Inspection Required (By\nYes\nEmpanelled Inspection Authority / Agencies\npre-registered with GeM)\nInspection to be carried out by Buyers own\nYes\nempanelled agency\nType Of Inspection Post Dispatch\nName of the Empanelled Inspection\nBoard of Officers\nAgency/ Authority\nAuto CRAC Days 60\nममू(cid:87)ू(cid:87)ययाांकंकनन पप(cid:90)(cid:90)िितत/Evaluation Method Total value wise evaluation\nमम(cid:93)(cid:93)यय(cid:38)(cid:38)थथतताा खखंडंड/Arbitration Clause No\nससुलुलहह खखंडंड/Mediation Clause No\nईईएएममडड(cid:19)(cid:19) (cid:1)(cid:1)ववववररणण/EMD Detail\nआव(cid:80)यकता/Required No\nईईपपीीबबीीजजीी (cid:1)(cid:1)ववववररणण /ePBG Detail\n2 / 8"
+    },
+    {
+      "page": 3,
+      "text": "आव(cid:80)यकता/Required No\nबोली (cid:1)वभाजन लागू नह(cid:19)ं (cid:62)कया गया/ Bid splitting not applied.\nएएममआआईईआआईई खखरर(cid:19)(cid:19)दद ववरर(cid:19)(cid:19)ययतताा / MII Purchase Preference\nएमआईआई खर(cid:19)द वर(cid:19)यता / MII Purchase Preference Yes\nमेक इन इं(cid:62)डया (cid:1)व(cid:59)ेताओं को खर(cid:19)द म(cid:74) (cid:57)ाथिमकता, य(cid:62)द\nउनका मू(cid:87)य L1+X% तक क(cid:16) सीमा म(cid:74) है / Purchase 20\nPreference to MII sellers availabele upto price\nwithin L1+X%\nमेक इन इं(cid:62)डया खर(cid:19)द म(cid:74) (cid:57)ाथिमकता के िलए (cid:1)बड क(cid:16) मा(cid:32)ा\nका अिधकतम (cid:57)ितशत / Maximum Percentage of Bid 50\nquantity for MII purchase preference\nएएममएएससईई खखरर(cid:19)(cid:19)दद ववरर(cid:19)(cid:19)ययतताा/MSE Purchase Preference\nएमएसई खर(cid:19)द वर(cid:19)यता/MSE Purchase Preference Yes\nसू(cid:97)म और लघु उ(cid:99)म मूल उपकरण िनमात(cid:37) ाओं को खर(cid:19)द म(cid:74)\n(cid:57)ाथिमकता, य(cid:62)द उनका मू(cid:87)य L1+X% तक क(cid:16) सीमा म(cid:74) हो / 15\nPurchase Preference to MSE OEMs available upto\nprice within L1+X%\nसू(cid:97)म और लघु उ(cid:99)म को खर(cid:19)द म(cid:74) (cid:57)ाथिमकता के िलए (cid:1)बड\nक(cid:16) मा(cid:32)ा का अिधकतम (cid:57)ितशत / Maximum 25\nPercentage of Bid quantity for MSE purchase\npreference\n1. If the bidder is a Micro or Small Enterprise as per latest orders issued by Ministry of MSME, the bidder shall be\nexempted from the eligibility criteria of \"Experience Criteria\" as defined above subject to meeting of quality and\ntechnical specifications. The bidder seeking exemption from Experience Criteria, shall upload the supporting\ndocuments to prove his eligibility for exemption.\n2. If the bidder is a Micro or Small Enterprise (MSE) as per latest orders issued by Ministry of MSME, the bidder\nshall be exempted from the eligibility criteria of \"Bidder Turnover\" as defined above subject to meeting of quality\nand technical specifications. If the bidder itself is MSE OEM of the offered products, it would be exempted from\nthe \"OEM Average Turnover\" criteria also subject to meeting of quality and technical specifications. The bidder\nseeking exemption from Turnover, shall upload the supporting documents to prove his eligibility for exemption.\n3. If the bidder is a DPIIT registered Startup, the bidder shall be exempted from the the eligibility criteria of\n\"Experience Criteria\" as defined above subject to their meeting of quality and technical specifications. The bidder\nseeking exemption from Experience Criteria, shall upload the supporting documents to prove his eligibility for\nexemption.\n4. If the bidder is a DPIIT registered Startup, the bidder shall be exempted from the the eligibility criteria of\n\"Bidder Turnover\" as defined above subject to their meeting of quality and technical specifications. If the bidder\nis DPIIT Registered OEM of the offered products, it would be exempted from the \"OEM Average Turnover\" criteria\nalso subject to meeting of quality and technical specifications. The bidder seeking exemption from Turnover shall\nupload the supporting documents to prove his eligibility for exemption.\n5. The minimum average annual financial turnover of the bidder during the last three years, ending on 31st\nMarch of the previous financial year, should be as indicated above in the bid document. Documentary evidence in\nthe form of certified Audited Balance Sheets of relevant periods or a certificate from the Chartered Accountant /\nCost Accountant indicating the turnover details for the relevant period shall be uploaded with the bid. In case the\n3 / 8"
+    },
+    {
+      "page": 4,
+      "text": "date of constitution / incorporation of the bidder is less than 3-year-old, the average turnover in respect of the\ncompleted financial years after the date of constitution shall be taken into account for this criteria.\n6. Experience Criteria: In respect of the filter applied for experience criteria, the Bidder or its OEM of the product\noffered in the bid {themselves or through reseller(s)} should have regularly, manufactured and supplied same or\nsimilar Category Products to any Central / State Govt Organization / PSU for number of Financial years as\nindicated above in the bid document before the bid opening date. Copies of relevant contracts and delivery\nacceptance certificates like CRAC to be submitted along with bid in support of having supplied some quantity\nduring each of the Financial year. In case of bunch bids, the category of primary product having highest value\nshould meet this criterion.\n7. OEM Turn Over Criteria: The minimum average annual financial turnover of the OEM of the offered product\nduring the last three years, ending on 31st March of the previous financial year, should be as indicated in the bid\ndocument. Documentary evidence in the form of certified Audited Balance Sheets of relevant periods or a\ncertificate from the Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period\nshall be uploaded with the bid. In case the date of constitution / incorporation of the OEM is less than 3 year old,\nthe average turnover in respect of the completed financial years after the date of constitution shall be taken into\naccount for this criteria.\n8. Preference to Make In India products (For bids < 200 Crore):Preference shall be given to Class 1 local supplier\nas defined in public procurement (Preference to Make in India), Order 2017 as amended from time to time and its\nsubsequent Orders/Notifications issued by concerned Nodal Ministry for specific Goods/Products. The minimum\nlocal content to qualify as a Class 1 local supplier is denoted in the bid document. If the bidder wants to avail the\nPurchase preference, the bidder must upload a certificate from the OEM regarding the percentage of the local\ncontent and the details of locations at which the local value addition is made along with their bid, failing which\nno purchase preference shall be granted. In case the bid value is more than Rs 10 Crore, the declaration relating\nto percentage of local content shall be certified by the statutory auditor or cost auditor, if the OEM is a company\nand by a practicing cost accountant or a chartered accountant for OEMs other than companies as per the Public\nProcurement (preference to Make-in -India) order 2017 dated 04.06.2020. Only Class-I and Class-II Local suppliers\nas per MII order dated 4.6.2020 will be eligible to bid. Non - Local suppliers as per MII order dated 04.06.2020 are\nnot eligible to participate. However, eligible micro and small enterprises will be allowed to participate.The buyers\nare advised to refer the OM No.F.1/4/2021-PPD dated 18.05.2023 OM_No.1_4_2021_PPD_dated_18.05.2023 for\ncompliance of Concurrent application of Public Procurement Policy for Micro and Small Enterprises Order, 2012\nand Public Procurement (Preference to Make in India) Order, 2017.\n9. Purchase preference will be given to MSEs having valid Udyam Registration and whose credentials are\nvalidated online through Udyam Registration portal as defined in Public Procurement Policy for Micro and Small\nEnterprises (MSEs) Order, 2012 dated 23.03.2012 issued by Ministry of Micro, Small and Medium Enterprises and\nits subsequent Orders/Notifications issued by concerned Ministry. If the bidder wants to avail themselves of the\nPurchase preference, the bidder must be the manufacturer / OEM of the offered product on GeM. Traders are\nexcluded from the purview of Public Procurement Policy for Micro and Small Enterprises and hence resellers\noffering products manufactured by some other OEM are not eligible for any purchase preference. In respect of bid\nfor Services, the bidder must be the Service provider of the offered Service. Relevant documentary evidence in\nthis regard shall be uploaded along with the bid in respect of the offered product or service and Buyer will decide\neligibility for purchase preference based on documentary evidence submitted, while evaluating the bid. If L-1 is\nnot an MSE and MSE Seller (s) has / have quoted price within L-1+ 15% (Selected by Buyer) of margin of\npurchase preference /price band defined in relevant policy, such MSE Seller shall be given opportunity to match\nL-1 price and contract will be awarded for 25% (selected by Buyer) percentage of total quantity. The buyers are\nadvised to refer the OM No. F.1/4/2021-PPD dated 18.05.2023 OM_No.1_4_2021_PPD_dated_18.05.2023 for\ncompliance of Concurrent application of Public Procurement Policy for Micro and Small Enterprises Order, 2012\nand Public Procurement (Preference to Make in India) Order, 2017. Benefits of MSE will be allowed only if seller is\nvalidated on-line in GeM profile as well as validated and approved by Buyer after evaluation of documents\nsubmitted.\n10. Past Performance: The Bidder or its OEM {themselves or through re-seller(s)} should have supplied same or\nsimilar Category Products for 30% of bid quantity, in at least one of the last three Financial years before the bid\nopening date to any Central / State Govt Organization / PSU. Copies of relevant contracts (proving supply of\ncumulative order quantity in any one financial year) to be submitted along with bid in support of quantity\nsupplied in the relevant Financial year. In case of bunch bids, the category related to primary product having\nhighest bid value should meet this criterion.\n11. Inspection of Stores by Nominated Inspection Authority / Agency of buyer or their\nauthorized representatives\nAn independent third party Professional Inspection Body can help buyer in mitigating buyer’s risk with pre-\ndispatch/post-dispatch inspection in order to ensure that equipment, components, solutions and documentation\nconform to contractual requirements. The buyer has a right to inspect goods in reasonable manner and within\nreasonable time at any reasonable place as indicated in contract. Inspection Fee/ Charges (as pre-greed between\nbuyer and Inspection Agency) would be borne by the buyer as per their internal arrangement but may be\n4 / 8"
+    },
+    {
+      "page": 5,
+      "text": "recovered from the seller if the consignment failed to conform to contractual specification and got rejected by\nthe Inspection Officer .If so requested and accepted by the seller , initially seller may pay for inspection\ncharges as applicable and get the same reimbursed from buyer if consignment accepted by the Inspecting\nOfficer . For reimbursement seller has to submit proof of payment to Inspection Agency.\nSeller/OEM shall send a notice in writing / e-mail to the Inspecting officer / inspection agency specifying the place\nof inspection as per contract and the Inspecting officer shall on receipt of such notice notify to the seller the date\nand time when the stores would be inspected. The seller shall, at his own expenses, afford to the Inspecting\nofficer, all reasonable facilities as may be necessary for satisfying himself that the stores are being and or have\nbeen manufactured in accordance with the technical particulars governing the supply. The decision of the\npurchaser representative /inspection authority regarding acceptance / rejection of consignment shall be final and\nbinding on the seller.\nThe Seller shall provide, without any extra charge, all materials, tools, labour and assistance of every kind which\nthe Inspecting officer may demand of him for any test, and examination, other than special or independent test,\nwhich he shall require to be made on the seller's premises and the seller shall bear and pay all costs attendant\nthereon.\nThe seller shall also provide and deliver store / sample from consignment under inspection free of charge at any\nsuch place other than his premises as the Inspecting officer may specify for acceptance tests for which\nseller/OEM does not have the facilities or for special/ independent tests.\nIn the event of rejection of stores or any part thereof by the Inspecting officer basis testing outside owing to lack\nof test facility at sellers premises, the seller shall, on demand, pay to the buyer the costs incurred in the\ninspection and/or test. Cost of test shall be assessed at the rate charged by the Laboratory to private persons for\nsimilar work.\nInspector shall have the right to put all the stores or materials forming part of the same or any part thereof to\nsuch tests as he may like fit and proper as per QAP/governing specification. The seller shall not be entitled to\nobject on any ground whatsoever to the method of testing adopted by the Inspecting officer.\nUnless otherwise provided for in the contract, the quantity of the stores or materials expended in test will be\nborne by seller.\nInspecting officer is the Final Authority to Certify Performance / accept the consignment. The Inspecting\nofficer’s decision as regards the rejection shall be final and binding on the seller.\nThe seller shall if so required at his own expense shall mark or permit the Inspecting officer to mark all the\napproved stores with a recognised Government or purchaser's mark.\n12. Reverse Auction would be conducted amongst first 50% of the technically qualified bidders arranged in the\norder of prices from lowest to highest. Number of sellers eligible for participating in RA would be rounded off to\nnext higher integer value if number of technically qualified bidders is odd (e.g. if 7 bids are technically qualified,\nthen RA will be conducted amongst L-1 to L-4). In case number of technically qualified bidders are 2 or 3, RA will\nbe between all without any elimination. If Buyer has chosen to split the bid amongst N sellers, then minimum N\nsellers would be taken to RA round. In case Primary products of only one OEM are left in contention for\nparticipation in RA based on lowest 50% bidders qualifying for RA, the number of sellers qualifying for RA would\nbe increased to get at least products of one more OEM (directly participated or through its reseller) if available.\nFurther, if bid(s) of any seller(s) eligible for MSE preference is / are coming within price band of 15% of Non MSE\nL-1 or if bid of any seller(s) eligible for Make in India preference is / are coming within price band of 20% of non\nMII L-1, then such MSE / Make in India seller shall also be allowed to participate in the RA process.\nBlood Glucose Test Strips (Glucostrips) With Glucometer ( 6000 strip )\n((cid:59)(cid:59)ममशशःः (cid:39)(cid:39)णेणे ीी 1 औऔरर (cid:39)(cid:39)णेणे ीी 2 ककेे (cid:38)(cid:38)थथााननीीयय आआपपूिूिततक(cid:37)क(cid:37) तताा(cid:37) (cid:37)ककेे (cid:100)(cid:100)पप मम(cid:74)(cid:74) अअहह(cid:37)त(cid:37)ताा (cid:57)(cid:57)ाा(cid:58)(cid:58) ककररननेे ककेे ििललएए आआवव(cid:80)(cid:80)ययकक/Minimum 50% and 20% Local\nContent required for qualifying as Class 1 and Class 2 Local Supplier respectively)\nततककननीीकक(cid:16)(cid:16) (cid:1)(cid:1)ववििशश(cid:1)(cid:1)(cid:89)(cid:89)ययााँ ँ /Technical Specifications\n* जेम केटेगर(cid:19) (cid:1)विश(cid:1)(cid:89) के अनुसार / As per GeM Category Specification\n5 / 8"
+    },
+    {
+      "page": 6,
+      "text": "(cid:1)(cid:1)ववििशश(cid:1)(cid:1)(cid:89)(cid:89) ककाा ननाामम /Specification (cid:1)(cid:1)बबडड ककेे ििललएए आआवव(cid:80)(cid:80)ययकक अअननुमुमतत ममू(cid:87)ू(cid:87)यय /Bid Requirement\n(cid:1)(cid:1)ववववररणण/Specification\nName (Allowed Values)\nGENERAL FEATURES One compatible glucometer 800, 1000 Or lower\nshould be provided free of\ncost on purchase of every\nGlUCOSTRIP Enzyme used in the Glucose Oxidase, Glucose Dehydrogenase (GDH)\nSPECIFICATIONS glucostrip\nShelf life of glucostrips 18, 24, 30, 36 Or higher\nfrom the date of\nmanufacture\nShelf life of glucostrips 6 Or higher\nafter first opening of the\nstrip pack(Months)\nNumber of strips packed in one 50, 100\ncontainer\nGLUCOMETER Free from Manual Coding Yes\nSPECIFICATIONS\nपपररेे(cid:1)(cid:1)षषततीी//(cid:85)(cid:85)ररपपोो(cid:62)(cid:62)टट(cid:102)(cid:102)गग अअििधधककाारर(cid:19)(cid:19) ततथथाा ममाा(cid:32)(cid:32)ाा/Consignees/Reporting Officer and Quantity\nपपररेे(cid:1)(cid:1)षषततीी//(cid:85)(cid:85)ररपपोो(cid:62)(cid:62)टट(cid:102)(cid:102)गग\n(cid:59)(cid:59)..ससं.ं./S.N (cid:62)(cid:62)डडललीीववरर(cid:19)(cid:19) ककेे (cid:62)(cid:62)ददनन/Delivery\no. अअििधधककाारर(cid:19)(cid:19) /Consignee पपतताा/Address ममाा(cid:32)(cid:32)ाा /Quantity Days\nReporting/Officer\n1 *********** ***********RAJOURI 6000 15\nSpecial terms and conditions-Version:2 effective from 11-11-2022 for category Blood Glucose Test\nStrips (Glucostrips) with Glucometer\n1. 1. All Provisions of Drugs and Cosmetics Act, 1940 and Rules made there under as amended till date\nwill always be applicable. This will include all notifications issued by Central Drugs Standard Control\nOrganisation (CDSCO), Ministry of Health & Family Welfare (MoHFW) and Department of\nPharmaceuticals (DOP), Ministry of Chemicals & Fertilizers time to time in this regard.\n2. The sellers are registered on GeM based on self-declaration of valid Drug License, product\ncertification, test reports etc. However, buyers must check and validate the details at their end for\nall applicable licenses and certifications e.g., validity and authenticity/genuineness of drug license,\nproduct certification, manufacturer certification/licenses, test reports etc.\n3. The price offered by the seller shall not, in any case exceed the DPCO controlled price, if any, fixed\nby the Central/State Government, the Maximum Retail Price (MRP) and the selling price. The seller\nmust reduce the prices if there is any reduction in DPCO ceiling price, if any.\n4. Any other Terms and Conditions which is not included or at variance with the conditions specified in\nSTC/GTC, may be added by the buyer through Additional Terms and Conditions in the bid to ensure\nitems are procured from authentic/validated source with appropriate and applicable quality. The\nabove terms and conditions are in reverse order of precedence i.e., ATC shall supersede specific\nSTC which shall supersede General Terms and Conditions (“GTC”), whenever there are any\nconflicting provisions.\n/Buyer Added Bid Specific Terms and Conditions\n(cid:59)(cid:59)ेेतताा (cid:73)(cid:73)ाारराा जजोोड़ड़(cid:19)(cid:19) गगईई (cid:1)(cid:1)बबडड कक(cid:16)(cid:16) (cid:1)(cid:1)ववशशेषेष शशतत(cid:105)(cid:105)\n6 / 8"
+    },
+    {
+      "page": 7,
+      "text": "1. Generic\nOPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up\nto 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to\nincrease the ordered quantity up to 25% of the contracted quantity during the currency of the contract at\nthe contracted rates. The delivery period of quantity shall commence from the last date of original\ndelivery order and in cases where option clause is exercised during the extended delivery period the\nadditional time shall commence from the last date of extended delivery period. The additional delivery\ntime shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to\nminimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the\noriginal delivery period. The Purchaser may extend this calculated delivery duration up to the original\ndelivery period while exercising the option clause. Bidders must comply with these terms.\n/Disclaimer\nअअ(cid:38)(cid:38)ववीीककररणण\nThe additional terms and conditions have been incorporated by the Buyer after approval of the Competent\nAuthority in Buyer Organization, whereby Buyer organization is solely responsible for the impact of these clauses\non the bidding process, its outcome, and consequences thereof including any eccentricity / restriction arising in\nthe bidding process due to these ATCs and due to modification of technical specifications and / or terms and\nconditions governing the bid. If any clause(s) is / are incorporated by the Buyer regarding following, the bid and\nresultant contracts shall be treated as null and void and such bids may be cancelled by GeM at any stage of\nbidding process without any notice:-\n1. Definition of Class I and Class II suppliers in the bid not in line with the extant Order / Office Memorandum\nissued by DPIIT in this regard.\n2. Seeking EMD submission from bidder(s), including via Additional Terms & Conditions, in contravention to\nexemption provided to such sellers under GeM GTC.\n3. Publishing Custom / BOQ bids for items for which regular GeM categories are available without any\nCategory item bunched with it.\n4. Creating BoQ bid for single item.\n5. Mentioning specific Brand or Make or Model or Manufacturer or Dealer name.\n6. Mandating submission of documents in physical form as a pre-requisite to qualify bidders.\n7. Floating / creation of work contracts as Custom Bids in Services.\n8. Seeking sample with bid or approval of samples during bid evaluation process. (However, in bids for\nattached categories, trials are allowed as per approved procurement policy of the buyer nodal Ministries)\n9. Mandating foreign / international certifications even in case of existence of Indian Standards without\nspecifying equivalent Indian Certification / standards.\n10. Seeking experience from specific organization / department / institute only or from foreign / export\nexperience.\n11. Creating bid for items from irrelevant categories.\n12. Incorporating any clause against the MSME policy and Preference to Make in India Policy.\n13. Reference of conditions published on any external site or reference to external documents/clauses.\n14. Asking for any Tender fee / Bid Participation fee / Auction fee in case of Bids / Forward Auction, as the\ncase may be.\n15. Buyer added ATC Clauses which are in contravention of clauses defined by buyer in system generated bid\ntemplate as indicated above in the Bid Details section, EMD Detail, ePBG Detail and MII and MSE Purchase\nPreference sections of the bid, unless otherwise allowed by GeM GTC.\n16. In a category based bid, adding additional items, through buyer added additional scope of work/ additional\nterms and conditions/or any other document. If buyer needs more items along with the main item, the\nsame must be added through bunching category based items or by bunching custom catalogs or\nbunching a BoQ with the main category based item, the same must not be done through ATC or Scope of\nWork.\nFurther, if any seller has any objection/grievance against these additional clauses or otherwise on any aspect of\nthis bid, they can raise their representation against the same by using the Representation window provided in\nthe bid details field in Seller dashboard after logging in as a seller within 4 days of bid publication on GeM. Buyer\nis duty bound to reply to all such representations and would not be allowed to open bids if he fails to reply to\nsuch representations.\n7 / 8"
+    },
+    {
+      "page": 8,
+      "text": "All GeM Sellers / Service Providers are mandated to ensure compliance with all the applicable laws /\nacts / rules including but not limited to all Labour Laws such as The Minimum Wages Act, 1948, The\nPayment of Wages Act, 1936, The Payment of Bonus Act, 1965, The Equal Remuneration Act, 1976,\nThe Payment of Gratuity Act, 1972 etc. Any non-compliance will be treated as breach of contract\nand Buyer may take suitable actions as per GeM Contract.\nयह (cid:1)बड सामा(cid:41)य शत(cid:48) के अतं गत(cid:37) भी शािसत है /This Bid is also governed by the General Terms and Conditions\nजेम क(cid:16) सामा(cid:41)य शत(cid:48) के खंड 26 के संदभ (cid:37) म(cid:74) भारत के साथ भूिम सीमा साझा करने वाले देश के (cid:1)बडर से खर(cid:19)द पर (cid:57)ितबंध के संबंध म(cid:74)\nभारत के साथ भूिम सीमा साझा करने वाले देश का कोई भी (cid:1)बडर इस िन(cid:1)वदा म(cid:74) (cid:1)बड देने के िलए तभी पा(cid:32) होगा जब वह (cid:1)बड देने वाला\nस(cid:54)म (cid:57)ािधकार(cid:19) के पास पंजीकृत हो।(cid:1)बड म(cid:74) भाग लेते समय (cid:1)बडर को इसका अनुपालन करना होगा और कोई भी गलत घोषणा (cid:62)कए जाने\nव इसका अनुपालन न करने पर अनुबंध को त(cid:108)काल समा(cid:58) करने और कानून के अनुसार आगे क(cid:16) कानूनी कार(cid:37)वाई का आधार होगा।/In terms\nof GeM GTC clause 26 regarding Restrictions on procurement from a bidder of a country which shares a land border with India, any bidder from a country which shares a\nland border with India will be eligible to bid in this tender only if the bidder is registered with the Competent Authority. While participating in bid, Bidder has to undertake\ncompliance of this and any false declaration and non-compliance of this would be a ground for immediate termination of the contract and further legal action in\naccordance with the laws.\n---धध(cid:41)(cid:41)ययववाादद/Thank You---\n8 / 8"
+    }
+  ],
+  "raw_tables": [
+    {
+      "page": 1,
+      "rows": [
+        {
+          "(cid:1)(cid:1)बबडड (cid:1)(cid:1)ववववररणण//Bid Details": "(cid:1)(cid:1)बबडड बबंदंद हहोोनने े कक(cid:16)(cid:16) तताारर(cid:19)(cid:19)खख//ससममयय /Bid End Date/Time",
+          "col_1": "18-11-2025 20:00:00"
+        },
+        {
+          "(cid:1)(cid:1)बबडड (cid:1)(cid:1)ववववररणण//Bid Details": "(cid:1)(cid:1)बबडड खखुलुलनने े कक(cid:16)(cid:16) तताारर(cid:19)(cid:19)खख//ससममयय /Bid Opening\nDate/Time",
+          "col_1": "18-11-2025 20:30:00"
+        },
+        {
+          "(cid:1)(cid:1)बबडड (cid:1)(cid:1)ववववररणण//Bid Details": "(cid:1)(cid:1)बबडड पपेशेशककशश ववैधैधतताा ((बबंदंद हहोोनने े कक(cid:16)(cid:16) तताारर(cid:19)(cid:19)खख ससे)े)/Bid Offer\nValidity (From End Date)",
+          "col_1": "180 (Days)"
+        },
+        {
+          "(cid:1)(cid:1)बबडड (cid:1)(cid:1)ववववररणण//Bid Details": "ममं(cid:32)ं(cid:32)ााललयय//रराा(cid:33)(cid:33)यय ककाा ननाामम/Ministry/State Name",
+          "col_1": "Ministry Of Defence"
+        },
+        {
+          "(cid:1)(cid:1)बबडड (cid:1)(cid:1)ववववररणण//Bid Details": "(cid:1)(cid:1)ववभभाागग ककाा ननाामम/Department Name",
+          "col_1": "Department Of Military Affairs"
+        },
+        {
+          "(cid:1)(cid:1)बबडड (cid:1)(cid:1)ववववररणण//Bid Details": "ससंगंगठठनन ककाा ननाामम/Organisation Name",
+          "col_1": "Indian Army"
+        },
+        {
+          "(cid:1)(cid:1)बबडड (cid:1)(cid:1)ववववररणण//Bid Details": "ककााययााल(cid:37)ल(cid:37) यय ककाा ननाामम/Office Name",
+          "col_1": "***********"
+        },
+        {
+          "(cid:1)(cid:1)बबडड (cid:1)(cid:1)ववववररणण//Bid Details": "ककुुलल ममाा(cid:32)(cid:32)ाा/Total Quantity",
+          "col_1": "6000"
+        },
+        {
+          "(cid:1)(cid:1)बबडड (cid:1)(cid:1)ववववररणण//Bid Details": "वव(cid:38)(cid:38)ततु ु (cid:39)(cid:39)णेणे ीी /Item Category",
+          "col_1": "Blood Glucose Test Strips (Glucostrips) with Glucometer\n(Q2)"
+        },
+        {
+          "(cid:1)(cid:1)बबडड (cid:1)(cid:1)ववववररणण//Bid Details": "(cid:1)(cid:1)बबडडरर ककाा (cid:41)(cid:41)ययूनूनततमम औऔससतत ववाा(cid:1)(cid:1)षषक(cid:37)क(cid:37) टटननओ(cid:37)ओ(cid:37) ववरर ((33 ववषष(cid:48)(cid:48) ककाा))\n/Minimum Average Annual Turnover of the\nbidder (For 3 Years)",
+          "col_1": "1 Lakh (s)"
+        },
+        {
+          "(cid:1)(cid:1)बबडड (cid:1)(cid:1)ववववररणण//Bid Details": "ममूलूल उउपपककररणण ििननममाात(cid:37)त(cid:37) ाा ककाा औऔससतत टटननओ(cid:37)ओ(cid:37) ववरर ((गगतत 33 ववषष(cid:48)(cid:48)\nककाा))/OEM Average Turnover (Last 3 Years)",
+          "col_1": "4 Lakh (s)"
+        },
+        {
+          "(cid:1)(cid:1)बबडड (cid:1)(cid:1)ववववररणण//Bid Details": "उउ(cid:41)(cid:41)हह(cid:19)(cid:19)ं/ं/ससममाानन ससेवेवाा ककेे ििललएए अअपपे(cid:53)े(cid:53)(cid:54)(cid:54)तत (cid:1)(cid:1)ववगगतत अअननुभुभवव ककेे\nववषष/(cid:37)(cid:37)Years of Past Experience Required for\nsame/similar service",
+          "col_1": "2 Year (s)"
+        },
+        {
+          "(cid:1)(cid:1)बबडड (cid:1)(cid:1)ववववररणण//Bid Details": "ववषष(cid:48)(cid:48) ककेे अअननुभुभवव एएववंं टटननओ(cid:37)ओ(cid:37) ववरर ससेे एएममएएससईई ककोो छछूूटट (cid:57)(cid:57)ाा(cid:58)(cid:58) हहैै /\nMSE Exemption for Years Of Experience\nand Turnover",
+          "col_1": "Yes | Complete"
+        },
+        {
+          "(cid:1)(cid:1)बबडड (cid:1)(cid:1)ववववररणण//Bid Details": "(cid:38)(cid:38)टटााटट(cid:37)(cid:37)अअपप ककेे ििललएए अअननुभुभवव ककेे ववषष(cid:48)(cid:48) औऔरर टटननओ(cid:37)ओ(cid:37) ववरर ससेे छछूूटट (cid:57)(cid:57)ददाानन\nकक(cid:16)(cid:16) गगईई हहैै / Startup Exemption for Years Of\nExperience and Turnover",
+          "col_1": "Yes | Complete"
+        },
+        {
+          "(cid:1)(cid:1)बबडड (cid:1)(cid:1)ववववररणण//Bid Details": "(cid:1)(cid:1)वव(cid:59)(cid:59)ेेतताा ससे े ममाांगंगे े गगएए दद(cid:38)(cid:38)ततााववेज़ेज़/Document required\nfrom seller",
+          "col_1": "Experience Criteria,Past Performance,Bidder Turnover,OEM\nAuthorization Certificate,OEM Annual Turnover,Compliance\nof BoQ specification and supporting document\n*In case any bidder is seeking exemption from Experience /\nTurnover Criteria, the supporting documents to prove his\neligibility for exemption must be uploaded for evaluation by\nthe buyer"
+        },
+        {
+          "(cid:1)(cid:1)बबडड (cid:1)(cid:1)ववववररणण//Bid Details": "",
+          "col_1": null
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "rows": [
+        {
+          "col_0": "(cid:1)(cid:1)बबडड (cid:1)(cid:1)ववववररणण//Bid Details",
+          "col_1": null
+        },
+        {
+          "col_0": "(cid:70)(cid:70)ययाा आआपप ििनन(cid:1)(cid:1)ववददााककाारर(cid:72)(cid:72) (cid:73)(cid:73)ाारराा अअपपललोोडड (cid:62)(cid:62)ककएए गगएए दद(cid:38)(cid:38)ततााववेज़ेज़(cid:72)(cid:72) ककोो\nििनन(cid:1)(cid:1)ववददाा मम(cid:74) (cid:74) भभाागग ललेनेने े ववाालले े ससभभीी ििनन(cid:1)(cid:1)ववददााककाारर(cid:72)(cid:72) ककोो (cid:62)(cid:62)ददखखााननाा\nचचााहहतते े हह(cid:76)(cid:76)?? ससंदंदभभ (cid:37) (cid:37) ममेनेनू ू हहैै/Do you want to show\ndocuments uploaded by bidders to all\nbidders participated in bid?",
+          "col_1": "Yes (Documents submitted as part of a clarification or\nrepresentation during the tender/bid process will also be\ndisplayed to other participated bidders after log in)"
+        },
+        {
+          "col_0": "(cid:1)(cid:1)बबडड ललगगाानने े कक(cid:16)(cid:16) ससममयय ससीीममाा (cid:38)(cid:38)ववततःः ननहह(cid:19)(cid:19)ं ं बबढ़ढ़ाानने े ककेे ििललएए\nआआवव(cid:80)(cid:80)ययकक (cid:1)(cid:1)बबडड कक(cid:16)(cid:16) ससं(cid:61)ं(cid:61)ययाा।। / Minimum number of\nbids required to disable automatic bid\nextension",
+          "col_1": "1"
+        },
+        {
+          "col_0": "(cid:62)(cid:62)ददनन(cid:72)(cid:72) कक(cid:16)(cid:16) ससं(cid:61)ं(cid:61)ययाा,, (cid:53)(cid:53)जजननककेे ििललएए (cid:1)(cid:1)बबडड ललगगाानने े कक(cid:16)(cid:16) ससममयय--ससीीममाा\nबबढ़ढ़ााईई जजााएएगगीी।। // Number of days for which Bid\nwould be auto--extended",
+          "col_1": "3"
+        },
+        {
+          "col_0": "ऑऑटटोो एए(cid:70)(cid:70)ससटट(cid:74)(cid:74)शशनन अअििधधककततमम (cid:62)(cid:62)ककततननीी बबाारर (cid:62)(cid:62)ककययाा जजााननाा हहैै।। //\nNumber of Auto Extension count",
+          "col_1": "2"
+        },
+        {
+          "col_0": "(cid:1)(cid:1)ववगगतत (cid:57)(cid:57)ददशशन(cid:37)न(cid:37) /Past Performance",
+          "col_1": "30 %"
+        },
+        {
+          "col_0": "(cid:1)(cid:1)बबडड ससे े (cid:85)(cid:85)ररववसस (cid:37) (cid:37) ननीीललााममीी सस(cid:62)(cid:62)(cid:59)(cid:59)यय (cid:62)(cid:62)ककययाा/Bid to RA enabled",
+          "col_1": "Yes"
+        },
+        {
+          "col_0": "(cid:85)(cid:85)ररववसस(cid:37) (cid:37)ननीीललााममीी ययोो(cid:86)(cid:86)ययतताा ििननययमम/RA Qualification Rule",
+          "col_1": "50% Lowest Priced Technically Qualified Bidders"
+        },
+        {
+          "col_0": "(cid:1)(cid:1)बबडड ककाा (cid:57)(cid:57)ककाारर/Type of Bid",
+          "col_1": "Two Packet Bid"
+        },
+        {
+          "col_0": "ततककननीीकक(cid:16)(cid:16) ममू(cid:87)ू(cid:87)ययाांकंकनन ककेे ददौौरराानन ततककननीीकक(cid:16)(cid:16) (cid:38)(cid:38)पप(cid:89)(cid:89)ीीककररणण हहेेततुु\nअअननुमुमतत ससममयय /Time allowed for Technical\nClarifications during technical evaluation",
+          "col_1": "2 Days"
+        },
+        {
+          "col_0": "ििननरर(cid:19)(cid:19)(cid:54)(cid:54)णण आआवव(cid:80)(cid:80)ययकक (ससूचूचीीबब(cid:90)(cid:90) ििननरर(cid:19)(cid:19)(cid:54)(cid:54)णण (cid:57)(cid:57)ााििधधककररणण /जजेमेम ककेे ससााथथ\nपपूवूव(cid:37) (cid:37)पपंजंजीीककृृतत एएजज(cid:74)ि(cid:74)िससयय(cid:72)(cid:72) (cid:73)(cid:73)ाारराा)/Inspection Required (By\nEmpanelled Inspection Authority / Agencies\npre-registered with GeM)",
+          "col_1": "Yes"
+        },
+        {
+          "col_0": "Inspection to be carried out by Buyers own\nempanelled agency",
+          "col_1": "Yes"
+        },
+        {
+          "col_0": "Type Of Inspection",
+          "col_1": "Post Dispatch"
+        },
+        {
+          "col_0": "Name of the Empanelled Inspection\nAgency/ Authority",
+          "col_1": "Board of Officers"
+        },
+        {
+          "col_0": "Auto CRAC Days",
+          "col_1": "60"
+        },
+        {
+          "col_0": "ममू(cid:87)ू(cid:87)ययाांकंकनन पप(cid:90)(cid:90)िितत/Evaluation Method",
+          "col_1": "Total value wise evaluation"
+        },
+        {
+          "col_0": "मम(cid:93)(cid:93)यय(cid:38)(cid:38)थथतताा खखंडंड/Arbitration Clause",
+          "col_1": "No"
+        },
+        {
+          "col_0": "ससुलुलहह खखंडंड/Mediation Clause",
+          "col_1": "No"
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "rows": []
+    },
+    {
+      "page": 3,
+      "rows": []
+    },
+    {
+      "page": 3,
+      "rows": [
+        {
+          "एमआईआई खर(cid:19)द वर(cid:19)यता / MII Purchase Preference": "मेक इन इं(cid:62)डया (cid:1)व(cid:59)ेताओं को खर(cid:19)द म(cid:74) (cid:57)ाथिमकता, य(cid:62)द\nउनका मू(cid:87)य L1+X% तक क(cid:16) सीमा म(cid:74) है / Purchase\nPreference to MII sellers availabele upto price\nwithin L1+X%",
+          "Yes": "20"
+        },
+        {
+          "एमआईआई खर(cid:19)द वर(cid:19)यता / MII Purchase Preference": "मेक इन इं(cid:62)डया खर(cid:19)द म(cid:74) (cid:57)ाथिमकता के िलए (cid:1)बड क(cid:16) मा(cid:32)ा\nका अिधकतम (cid:57)ितशत / Maximum Percentage of Bid\nquantity for MII purchase preference",
+          "Yes": "50"
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "rows": [
+        {
+          "एमएसई खर(cid:19)द वर(cid:19)यता/MSE Purchase Preference": "सू(cid:97)म और लघु उ(cid:99)म मूल उपकरण िनमात(cid:37) ाओं को खर(cid:19)द म(cid:74)\n(cid:57)ाथिमकता, य(cid:62)द उनका मू(cid:87)य L1+X% तक क(cid:16) सीमा म(cid:74) हो /\nPurchase Preference to MSE OEMs available upto\nprice within L1+X%",
+          "Yes": "15"
+        },
+        {
+          "एमएसई खर(cid:19)द वर(cid:19)यता/MSE Purchase Preference": "सू(cid:97)म और लघु उ(cid:99)म को खर(cid:19)द म(cid:74) (cid:57)ाथिमकता के िलए (cid:1)बड\nक(cid:16) मा(cid:32)ा का अिधकतम (cid:57)ितशत / Maximum\nPercentage of Bid quantity for MSE purchase\npreference",
+          "Yes": "25"
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "rows": [
+        {
+          "(cid:1)(cid:1)ववववररणण/Specification": "GENERAL FEATURES",
+          "(cid:1)(cid:1)ववििशश(cid:1)(cid:1)(cid:89)(cid:89) ककाा ननाामम /Specification\nName": "One compatible glucometer\nshould be provided free of\ncost on purchase of every",
+          "(cid:1)(cid:1)बबडड ककेे ििललएए आआवव(cid:80)(cid:80)ययकक अअननुमुमतत ममू(cid:87)ू(cid:87)यय /Bid Requirement\n(Allowed Values)": "800, 1000 Or lower"
+        },
+        {
+          "(cid:1)(cid:1)ववववररणण/Specification": "GlUCOSTRIP\nSPECIFICATIONS",
+          "(cid:1)(cid:1)ववििशश(cid:1)(cid:1)(cid:89)(cid:89) ककाा ननाामम /Specification\nName": "Enzyme used in the\nglucostrip",
+          "(cid:1)(cid:1)बबडड ककेे ििललएए आआवव(cid:80)(cid:80)ययकक अअननुमुमतत ममू(cid:87)ू(cid:87)यय /Bid Requirement\n(Allowed Values)": "Glucose Oxidase, Glucose Dehydrogenase (GDH)"
+        },
+        {
+          "(cid:1)(cid:1)ववववररणण/Specification": null,
+          "(cid:1)(cid:1)ववििशश(cid:1)(cid:1)(cid:89)(cid:89) ककाा ननाामम /Specification\nName": "Shelf life of glucostrips\nfrom the date of\nmanufacture",
+          "(cid:1)(cid:1)बबडड ककेे ििललएए आआवव(cid:80)(cid:80)ययकक अअननुमुमतत ममू(cid:87)ू(cid:87)यय /Bid Requirement\n(Allowed Values)": "18, 24, 30, 36 Or higher"
+        },
+        {
+          "(cid:1)(cid:1)ववववररणण/Specification": null,
+          "(cid:1)(cid:1)ववििशश(cid:1)(cid:1)(cid:89)(cid:89) ककाा ननाामम /Specification\nName": "Shelf life of glucostrips\nafter first opening of the\nstrip pack(Months)",
+          "(cid:1)(cid:1)बबडड ककेे ििललएए आआवव(cid:80)(cid:80)ययकक अअननुमुमतत ममू(cid:87)ू(cid:87)यय /Bid Requirement\n(Allowed Values)": "6 Or higher"
+        },
+        {
+          "(cid:1)(cid:1)ववववररणण/Specification": null,
+          "(cid:1)(cid:1)ववििशश(cid:1)(cid:1)(cid:89)(cid:89) ककाा ननाामम /Specification\nName": "Number of strips packed in one\ncontainer",
+          "(cid:1)(cid:1)बबडड ककेे ििललएए आआवव(cid:80)(cid:80)ययकक अअननुमुमतत ममू(cid:87)ू(cid:87)यय /Bid Requirement\n(Allowed Values)": "50, 100"
+        },
+        {
+          "(cid:1)(cid:1)ववववररणण/Specification": "GLUCOMETER\nSPECIFICATIONS",
+          "(cid:1)(cid:1)ववििशश(cid:1)(cid:1)(cid:89)(cid:89) ककाा ननाामम /Specification\nName": "Free from Manual Coding",
+          "(cid:1)(cid:1)बबडड ककेे ििललएए आआवव(cid:80)(cid:80)ययकक अअननुमुमतत ममू(cid:87)ू(cid:87)यय /Bid Requirement\n(Allowed Values)": "Yes"
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "rows": [
+        {
+          "(cid:59)(cid:59)..ससं.ं./S.N\no.": "1",
+          "पपररेे(cid:1)(cid:1)षषततीी//(cid:85)(cid:85)ररपपोो(cid:62)(cid:62)टट(cid:102)(cid:102)गग\nअअििधधककाारर(cid:19)(cid:19) /Consignee\nReporting/Officer": "***********",
+          "पपतताा/Address": "***********RAJOURI",
+          "ममाा(cid:32)(cid:32)ाा /Quantity": "6000",
+          "(cid:62)(cid:62)डडललीीववरर(cid:19)(cid:19) ककेे (cid:62)(cid:62)ददनन/Delivery\nDays": "15"
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "page": 4,
+      "url": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/",
+      "ext": "in/bidding/downloadomppdfile/",
+      "raw": "https://bidplus.gem.gov.in/bidding/downloadOmppdfile/"
+    },
+    {
+      "page": 5,
+      "url": "https://bidplus.gem.gov.in/bidding/bid/showCatalogue/XEppv0f6A_FalZoR5V2WkQsYy_IkQBHWBXUR8Ih-yrA",
+      "ext": "",
+      "raw": "XEppv0f6A_FalZoR5V2WkQsYy_IkQBHWBXUR8Ih-yrA"
+    },
+    {
+      "page": 7,
+      "url": "https://assets-bg.gem.gov.in/resources/upload/shared_doc/list-of-categories-where-trials-are-allowed_1712126171.pdf",
+      "ext": "pdf",
+      "raw": "list-of-categories-where-trials-are-allowed_1712126171.pdf"
+    },
+    {
+      "page": 8,
+      "url": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20251108",
+      "ext": "in/apis/v1/gtc/pdfbydate/?date=20251108",
+      "raw": "https://admin.gem.gov.in/apis/v1/gtc/pdfByDate/?date=20251108"
+    }
+  ]
+}
