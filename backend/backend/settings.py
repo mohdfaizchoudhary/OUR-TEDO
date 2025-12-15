@@ -93,7 +93,7 @@ DATABASES = {
         "ENGINE": "django.db.backends.mysql",
         "NAME": "tedodb",
         "USER": "root",
-        "PASSWORD": "Zubair123",
+        "PASSWORD": "Faiz@123",
         "HOST": "localhost",
         "PORT": "3306",
         "OPTIONS": {"charset": "utf8mb4"},

@@ -78,9 +78,10 @@ function Login() {
 
         <div className=" w-120 border-2 border-[#0006] rounded-full flex relative">
           <input
+          id="loginp"
             type="text"
             placeholder="Username"
-            className="w-110 h-[60px] outline-none bg-transparent placeholder-gray-300 rounded-full text-[20px] mb-[10px] transform translate-x-4"
+            className="w-110 h-[60px] bg-transparent placeholder-gray-300 rounded-full text-[20px] mb-[10px] transform translate-x-4"
             required
             onChange={(e) => setUsername(e.target.value)}
             value={username}
@@ -89,9 +90,10 @@ function Login() {
 
         <div className="w-120 border-2 border-[#0006] rounded-full flex relative">
           <input
+          id="loginp"
             type={showPassword ? "text" : "password"}
             placeholder="Enter password"
-            className="w-120 h-[60px] outline-none bg-transparent placeholder-gray-300 rounded-full text-[20px] mb-[10px] transform translate-x-4"
+            className="w-120 h-[60px] bg-transparent placeholder-gray-300 rounded-full text-[20px] mb-[10px] transform translate-x-4"
             required
             onChange={(e) => setPassword(e.target.value)}
             value={password}

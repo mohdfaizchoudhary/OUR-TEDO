@@ -76,6 +76,7 @@ function Register() {
         {/* Username */}
         <div className="w-120 h-[60px] outline-none border-2 border-[#0006] rounded-full">
           <input
+          id="reginp"
             type="text"
             value={name}
             onChange={(e) => setName(e.target.value)}
@@ -88,6 +89,7 @@ function Register() {
         {/* Email */}
         <div className="w-120 h-[60px] outline-none border-2 border-[#0006] rounded-full">
           <input
+          id="reginp"
             type="email"
             value={email}
             onChange={(e) => setEmail(e.target.value)}
@@ -100,6 +102,7 @@ function Register() {
         {/* Password */}
         <div className="border-2 border-[#0006] rounded-full flex relative">
           <input
+          id="reginp"
             type={showPassword ? "text" : "password"}
             required
             onChange={(e) => setPassword(e.target.value)}
@@ -123,6 +126,7 @@ function Register() {
         {/* Confirm Password */}
         <div className="border-2 border-[#0006] rounded-full flex relative">
           <input
+          id="reginp"
             type={showPassword1 ? "text" : "password"}
             onChange={(e) => setConPassword(e.target.value)}
             required

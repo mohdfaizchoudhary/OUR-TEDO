@@ -14,3 +14,13 @@
     right: 0;
     z-index: 1;
 }
+
+#loginp{
+    border: none;
+    outline: none;
+}
+
+#reginp{
+    border: none;
+    outline: none;
+}
